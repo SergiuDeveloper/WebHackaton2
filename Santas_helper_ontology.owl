@@ -114,7 +114,7 @@
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unfavorableWeatherConditions">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
     </owl:ObjectProperty>
     
 

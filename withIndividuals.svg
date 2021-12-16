@@ -3,7 +3,7 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
- width="3660" height="1806" viewBox="0 0 3660 1806">
+ width="2028" height="3639" viewBox="0 0 2028 3639">
  onmousemove="movetip(evt)" onmouseup="endmove()">
 <rect x="0" y="0" width="100%" height="100%" style="fill:#F0F8FF;"/>
 <script type="application/ecmascript"> <![CDATA[
@@ -38,2208 +38,2207 @@ tip.setAttributeNS(null,"visibility","hidden");
 <stop offset="0%" style="stop-color:#FFFF00;stop-opacity:1"/>
 <stop offset="100%" style="stop-color:#FFFFF0;stop-opacity:1"/>
 </linearGradient></defs>
-<g id="2000967441"><polygon points="1092,1263 1122,1263 1122,1267 1092,1267 "
-style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
-</g>
-<g id="2000967445"><polygon points="2383,500 2531,500 2531,504 2383,504 "
-style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
-</g>
-<g id="2000967449"><polygon points="2323,802 2353,802 2353,806 2323,806 "
+<g id="2000983268"><polygon points="1153,3344 1183,3344 1183,3348 1153,3348 "
 style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2276" y="797">{disjoint}</tspan>
+<tspan x="1106" y="3346">{disjoint}</tspan>
 </text>
 </g>
-<g id="2000967453"><polygon points="1190,838 1220,838 1220,842 1190,842 "
+<g id="2000983272"><polygon points="1284,2420 1314,2420 1314,2424 1284,2424 "
 style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000967457"><polygon points="2359,823 2389,823 2389,827 2359,827 "
+<g id="2000983276"><polygon points="1278,1473 1308,1473 1308,1477 1278,1477 "
 style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000967461"><polygon points="860,1462 946,1462 946,1466 860,1466 "
+<g id="2000983280"><polygon points="299,2431 329,2431 329,2435 299,2435 "
 style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000967476"><polygon points="1610,785 1775,785 1775,840 1610,840 "
+<g id="2000983284"><polygon points="1124,1455 1154,1455 1154,1459 1124,1459 "
+style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
+</g>
+<g id="2000983288"><polygon points="1248,2710 1278,2710 1278,2714 1248,2714 "
+style="fill:#8000FF; stroke-width:1;stroke:Black;"/>
+</g>
+<g id="2000983303"><polygon points="902,2021 1094,2021 1094,2076 902,2076 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1614" y1="838" x2="1773" y2="838"
+<line x1="906" y1="2074" x2="1092" y2="2074"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1614" y="801">WeatherConditions{http:</tspan>
-<tspan x="1633" y="818">//www.co-ode.org/</tspan>
-<tspan x="1632" y="835">ontologies/ont.owl}</tspan>
+<tspan x="916" y="2037">WeatherConditions{http://</tspan>
+<tspan x="908" y="2054">www.co-ode.org/ontologies/</tspan>
+<tspan x="973" y="2071">ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967487"><polygon points="1244,1057 1409,1057 1409,1123 1244,1123 "
+<g id="2000983314"><polygon points="1315,2913 1480,2913 1480,2968 1315,2968 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1248" y1="1076" x2="1407" y2="1076"
+<line x1="1319" y1="2966" x2="1478" y2="2966"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1303" y="1073">Gender</tspan>
+<tspan x="1322" y="2929">SouthAmericanCountry</tspan>
+<tspan x="1322" y="2946">{http://www.co-ode.org/</tspan>
+<tspan x="1337" y="2963">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967498"><polygon points="2525,755 2690,755 2690,804 2525,804 "
+<g id="2000983325"><polygon points="415,2528 580,2528 580,2577 415,2577 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2529" y1="774" x2="2688" y2="774"
+<line x1="419" y1="2547" x2="578" y2="2547"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2591" y="771">Book</tspan>
+<tspan x="474" y="2544">Gender</tspan>
 </text>
 </g>
-<g id="2000967509"><polygon points="1949,1512 2114,1512 2114,1567 1949,1567 "
+<g id="2000983336"><polygon points="1314,1484 1479,1484 1479,1533 1314,1533 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1953" y1="1565" x2="2112" y2="1565"
+<line x1="1318" y1="1520" x2="1477" y2="1520"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1956" y="1528">Science{http://www.co-</tspan>
-<tspan x="1958" y="1545">ode.org/ontologies/ont.</tspan>
-<tspan x="2018" y="1562">owl}</tspan>
+<tspan x="1324" y="1500">Art{http://www.co-ode.</tspan>
+<tspan x="1324" y="1517">org/ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967520"><polygon points="934,1389 1099,1389 1099,1438 934,1438 "
+<g id="2000983347"><polygon points="1165,3456 1330,3456 1330,3505 1165,3505 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="938" y1="1408" x2="1097" y2="1408"
+<line x1="1169" y1="3475" x2="1328" y2="3475"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="995" y="1405">Military</tspan>
+<tspan x="1231" y="3472">Book</tspan>
 </text>
 </g>
-<g id="2000967531"><polygon points="2407,403 2572,403 2572,458 2407,458 "
+<g id="2000983358"><polygon points="1326,2339 1491,2339 1491,2394 1326,2394 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2411" y1="456" x2="2570" y2="456"
+<line x1="1330" y1="2392" x2="1489" y2="2392"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2416" y="419">NorthAmericanCountry</tspan>
-<tspan x="2414" y="436">{http://www.co-ode.org/</tspan>
-<tspan x="2429" y="453">ontologies/ont.owl}</tspan>
+<tspan x="1345" y="2355">AsianCountry{http://</tspan>
+<tspan x="1353" y="2372">www.co-ode.org/</tspan>
+<tspan x="1348" y="2389">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967542"><polygon points="701,1127 866,1127 866,1176 701,1176 "
+<g id="2000983369"><polygon points="737,2134 902,2134 902,2189 737,2189 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="705" y1="1146" x2="864" y2="1146"
+<line x1="741" y1="2187" x2="900" y2="2187"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="760" y="1143">Modern</tspan>
+<tspan x="746" y="2150">Interest{http://www.co-</tspan>
+<tspan x="746" y="2167">ode.org/ontologies/ont.</tspan>
+<tspan x="806" y="2184">owl}</tspan>
 </text>
 </g>
-<g id="2000967553"><polygon points="2537,499 2702,499 2702,554 2537,554 "
+<g id="2000983380"><polygon points="1331,1128 1496,1128 1496,1183 1331,1183 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2541" y1="552" x2="2700" y2="552"
+<line x1="1335" y1="1181" x2="1494" y2="1181"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2556" y="515">AsianCountry{http://</tspan>
-<tspan x="2564" y="532">www.co-ode.org/</tspan>
-<tspan x="2559" y="549">ontologies/ont.owl}</tspan>
+<tspan x="1338" y="1144">Science{http://www.co-</tspan>
+<tspan x="1340" y="1161">ode.org/ontologies/ont.</tspan>
+<tspan x="1400" y="1178">owl}</tspan>
 </text>
 </g>
-<g id="2000967564"><polygon points="629,920 794,920 794,969 629,969 "
+<g id="2000983391"><polygon points="10,2747 175,2747 175,2829 10,2829 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="633" y1="939" x2="792" y2="939"
+<line x1="14" y1="2766" x2="173" y2="2766"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="678" y="936">Thing{owl}</tspan>
+<tspan x="59" y="2763">Thing{owl}</tspan>
 </text>
-<line x1="633" y1="939" x2="792" y2="939"
+<line x1="14" y1="2766" x2="173" y2="2766"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="633" y="951">topDataProperty{owl}</tspan>
+<tspan x="14" y="2778">topDataProperty{owl}</tspan>
 </text>
 </g>
-<g id="2000967592"><polygon points="2230,82 2395,82 2395,137 2230,137 "
+<g id="2000983419"><polygon points="1256,3401 1421,3401 1421,3450 1256,3450 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2234" y1="135" x2="2393" y2="135"
+<line x1="1260" y1="3420" x2="1419" y2="3420"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2237" y="98">SouthAmericanCountry</tspan>
-<tspan x="2237" y="115">{http://www.co-ode.org/</tspan>
-<tspan x="2252" y="132">ontologies/ont.owl}</tspan>
+<tspan x="1311" y="3417">Weapon</tspan>
 </text>
 </g>
-<g id="2000967603"><polygon points="1919,852 2084,852 2084,934 1919,934 "
+<g id="2000983430"><polygon points="1256,3340 1421,3340 1421,3389 1256,3389 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1923" y1="871" x2="2082" y2="871"
+<line x1="1260" y1="3359" x2="1419" y2="3359"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1991" y="868">Gift</tspan>
+<tspan x="1327" y="3356">Toy</tspan>
 </text>
-<line x1="1923" y1="871" x2="2082" y2="871"
+</g>
+<g id="2000983441"><polygon points="1315,2858 1480,2858 1480,2907 1315,2907 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1319" y1="2877" x2="1478" y2="2877"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1373" y="2874">Magical</tspan>
+</text>
+</g>
+<g id="2000983452"><polygon points="415,2614 580,2614 580,2663 415,2663 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="419" y1="2633" x2="578" y2="2633"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="426" y="2630">TranspotationMethods</tspan>
+</text>
+</g>
+<g id="2000983463"><polygon points="1326,2589 1491,2589 1491,2638 1326,2638 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1330" y1="2608" x2="1489" y2="2608"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1384" y="2605">Classic</tspan>
+</text>
+</g>
+<g id="2000983474"><polygon points="1312,1647 1477,1647 1477,1696 1312,1696 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1316" y1="1666" x2="1475" y2="1666"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1373" y="1663">Military</tspan>
+</text>
+</g>
+<g id="2000983485"><polygon points="1326,2435 1491,2435 1491,2490 1326,2490 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1330" y1="2488" x2="1489" y2="2488"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1335" y="2451">OceaniaCountry{http://</tspan>
+<tspan x="1353" y="2468">www.co-ode.org/</tspan>
+<tspan x="1348" y="2485">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000983496"><polygon points="1326,1996 1491,1996 1491,2051 1326,2051 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1330" y1="2049" x2="1489" y2="2049"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1335" y="2012">NorthAmericanCountry</tspan>
+<tspan x="1333" y="2029">{http://www.co-ode.org/</tspan>
+<tspan x="1348" y="2046">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000983507"><polygon points="580,3121 873,3121 873,3187 580,3187 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="584" y1="3140" x2="871" y2="3140"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="716" y="3137">Gift</tspan>
+</text>
+<line x1="584" y1="3140" x2="871" y2="3140"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1923" y="883">apropriateForAgesAndUp:</tspan>
-<tspan x="1923" y="898">positiveInteger{</tspan>
-<tspan x="1923" y="913">&lt;topDataProperty{owl}}</tspan>
+<tspan x="584" y="3152">apropriateForAgesAndUp:positiveInteger{</tspan>
+<tspan x="584" y="3167">&lt;topDataProperty{owl}}</tspan>
 </text>
 </g>
-<g id="2000967633"><polygon points="1794,690 1959,690 1959,739 1794,739 "
+<g id="2000983537"><polygon points="415,2473 580,2473 580,2522 415,2522 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1798" y1="709" x2="1957" y2="709"
+<line x1="419" y1="2492" x2="578" y2="2492"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1842" y="706">RoadState</tspan>
+<tspan x="463" y="2489">RoadState</tspan>
 </text>
 </g>
-<g id="2000967644"><polygon points="1804,604 1969,604 1969,658 1804,658 "
+<g id="2000983548"><polygon points="314,2688 479,2688 479,2739 314,2739 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1808" y1="623" x2="1967" y2="623"
+<line x1="318" y1="2707" x2="477" y2="2707"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1814" y="620">TransportationMedium</tspan>
+<tspan x="380" y="2704">Child</tspan>
 </text>
-</g>
-<g id="2000967655"><polygon points="1743,511 1908,511 1908,566 1743,566 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1747" y1="564" x2="1906" y2="564"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1751" y="527">Country{http://www.co-</tspan>
-<tspan x="1752" y="544">ode.org/ontologies/ont.</tspan>
-<tspan x="1812" y="561">owl}</tspan>
-</text>
-</g>
-<g id="2000967666"><polygon points="2532,967 2697,967 2697,1029 2532,1029 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2536" y1="1020" x2="2695" y2="1020"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2539" y="983">BadWeatherConditions</tspan>
-<tspan x="2539" y="1000">{http://www.co-ode.org/</tspan>
-<tspan x="2554" y="1017">ontologies/ont.owl}</tspan>
-</text>
-</g>
-<g id="2000967677"><polygon points="10,1239 175,1239 175,1301 10,1301 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="14" y1="1292" x2="173" y2="1292"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="15" y="1255">Engineering{http://www.</tspan>
-<tspan x="21" y="1272">co-ode.org/ontologies/</tspan>
-<tspan x="67" y="1289">ont.owl}</tspan>
-</text>
-</g>
-<g id="2000967688"><polygon points="3117,1314 3282,1314 3282,1363 3117,1363 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="3121" y1="1333" x2="3280" y2="1333"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="3186" y="1330">Tool</tspan>
-</text>
-</g>
-<g id="2000967699"><polygon points="701,1040 866,1040 866,1089 701,1089 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="705" y1="1059" x2="864" y2="1059"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="759" y="1056">Magical</tspan>
-</text>
-</g>
-<g id="2000967710"><polygon points="1796,1267 1961,1267 1961,1316 1796,1316 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1800" y1="1286" x2="1959" y2="1286"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1854" y="1283">Classic</tspan>
-</text>
-</g>
-<g id="2000967721"><polygon points="1818,956 1983,956 1983,1005 1818,1005 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1822" y1="975" x2="1981" y2="975"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1873" y="972">Weapon</tspan>
-</text>
-</g>
-<g id="2000967732"><polygon points="1820,1135 1985,1135 1985,1184 1820,1184 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1824" y1="1154" x2="1983" y2="1154"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1891" y="1151">Toy</tspan>
-</text>
-</g>
-<g id="2000967743"><polygon points="616,684 781,684 781,756 616,756 "
-style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="620" y1="703" x2="779" y2="703"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="682" y="700">Child</tspan>
-</text>
-<line x1="620" y1="703" x2="779" y2="703"
+<line x1="318" y1="2707" x2="477" y2="2707"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="620" y="715">hasAge:positiveInteger{</tspan>
-<tspan x="620" y="730">&lt;topDataProperty{owl}}</tspan>
+<tspan x="318" y="2719">hasAge:positiveInteger{</tspan>
+<tspan x="318" y="2734">&lt;topDataProperty{owl}}</tspan>
 </text>
 </g>
-<g id="2000967773"><polygon points="2531,601 2696,601 2696,656 2531,656 "
+<g id="2000983578"><polygon points="1270,3213 1435,3213 1435,3262 1270,3262 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2535" y1="654" x2="2694" y2="654"
+<line x1="1274" y1="3232" x2="1433" y2="3232"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2535" y="617">AntarcticaCountry{http://</tspan>
-<tspan x="2558" y="634">www.co-ode.org/</tspan>
-<tspan x="2553" y="651">ontologies/ont.owl}</tspan>
+<tspan x="1339" y="3229">Tool</tspan>
 </text>
 </g>
-<g id="2000967784"><polygon points="391,1456 593,1456 593,1511 391,1511 "
+<g id="2000983589"><polygon points="889,1812 1106,1812 1106,1861 889,1861 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="395" y1="1492" x2="591" y2="1492"
+<line x1="893" y1="1831" x2="1104" y2="1831"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="395" y="1472">Interest{http://www.co-ode.org</tspan>
-<tspan x="430" y="1489">/ontologies/ont.owl}</tspan>
+<tspan x="925" y="1828">TransportationMedium</tspan>
 </text>
 </g>
-<g id="2000967795"><polygon points="1575,1606 1740,1606 1740,1662 1575,1662 "
+<g id="2000983600"><polygon points="1326,2163 1491,2163 1491,2218 1326,2218 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1579" y1="1642" x2="1738" y2="1642"
+<line x1="1330" y1="2216" x2="1489" y2="2216"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1585" y="1622">Art{http://www.co-ode.</tspan>
-<tspan x="1585" y="1639">org/ontologies/ont.owl}</tspan>
+<tspan x="1330" y="2179">AntarcticaCountry{http://</tspan>
+<tspan x="1353" y="2196">www.co-ode.org/</tspan>
+<tspan x="1348" y="2213">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967806"><polygon points="3282,1040 3447,1040 3447,1096 3282,1096 "
+<g id="2000983611"><polygon points="1185,403 1350,403 1350,458 1185,458 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="3286" y1="1093" x2="3445" y2="1093"
+<line x1="1189" y1="456" x2="1348" y2="456"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="3296" y="1056">AfricanCountry{http://</tspan>
-<tspan x="3309" y="1073">www.co-ode.org/</tspan>
-<tspan x="3304" y="1090">ontologies/ont.owl}</tspan>
+<tspan x="1192" y="419">BadWeatherConditions</tspan>
+<tspan x="1192" y="436">{http://www.co-ode.org/</tspan>
+<tspan x="1207" y="453">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967817"><polygon points="701,1182 866,1182 866,1264 701,1264 "
+<g id="2000983622"><polygon points="1357,2672 1522,2672 1522,2721 1357,2721 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="705" y1="1201" x2="864" y2="1201"
+<line x1="1361" y1="2691" x2="1520" y2="2691"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="712" y="1198">TranspotationMethods</tspan>
+<tspan x="1416" y="2688">Modern</tspan>
 </text>
 </g>
-<g id="2000967828"><polygon points="2401,317 2566,317 2566,372 2401,372 "
+<g id="2000983633"><polygon points="437,2355 780,2355 780,2410 437,2410 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2405" y1="370" x2="2564" y2="370"
+<line x1="441" y1="2374" x2="778" y2="2374"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2406" y="333">EuropeanCountry{http://</tspan>
-<tspan x="2428" y="350">www.co-ode.org/</tspan>
-<tspan x="2423" y="367">ontologies/ont.owl}</tspan>
+<tspan x="447" y="2371">Country{http://www.co-ode.org/ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967839"><polygon points="1792,363 1957,363 1957,419 1792,419 "
+<g id="2000983644"><polygon points="1327,2762 1492,2762 1492,2817 1327,2817 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="1796" y1="416" x2="1955" y2="416"
+<line x1="1331" y1="2815" x2="1490" y2="2815"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="1801" y="379">OceaniaCountry{http://</tspan>
-<tspan x="1819" y="396">www.co-ode.org/</tspan>
-<tspan x="1814" y="413">ontologies/ont.owl}</tspan>
+<tspan x="1341" y="2778">AfricanCountry{http://</tspan>
+<tspan x="1354" y="2795">www.co-ode.org/</tspan>
+<tspan x="1349" y="2812">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967996"><polygon points="2652,209 2652,10 2744,10 2752,18 2752,209 "
+<g id="2000983655"><polygon points="1326,2225 1491,2225 1491,2280 1326,2280 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1330" y1="2278" x2="1489" y2="2278"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1331" y="2241">EuropeanCountry{http://</tspan>
+<tspan x="1353" y="2258">www.co-ode.org/</tspan>
+<tspan x="1348" y="2275">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000983666"><polygon points="1296,808 1461,808 1461,863 1296,863 "
+style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
+<line x1="1300" y1="861" x2="1459" y2="861"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
+<tspan x="1301" y="824">Engineering{http://www.</tspan>
+<tspan x="1307" y="841">co-ode.org/ontologies/</tspan>
+<tspan x="1353" y="858">ont.owl}</tspan>
+</text>
+</g>
+<g id="2000983823"><polygon points="1635,3629 1635,3430 1727,3430 1735,3438 1735,3629 "
 style="fill:White; stroke-width:1;stroke:Black;"/>
-<line x1="2752" y1="18" x2="2744" y2="18"
+<line x1="1735" y1="3438" x2="1727" y2="3438"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2744" y1="18" x2="2744" y2="10"
+<line x1="1727" y1="3438" x2="1727" y2="3430"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2656" y1="27" x2="2750" y2="27"
+<line x1="1639" y1="3447" x2="1733" y2="3447"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2663" y="24">&lt;&lt;comment&gt;&gt;</tspan>
+<tspan x="1646" y="3444">&lt;&lt;comment&gt;&gt;</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2656" y="39">&quot;There are no </tspan>
-<tspan x="2656" y="54">countries in </tspan>
-<tspan x="2656" y="69">Antarctica, </tspan>
-<tspan x="2656" y="84">although seven </tspan>
-<tspan x="2656" y="99">nations claim </tspan>
-<tspan x="2656" y="114">different parts of </tspan>
-<tspan x="2656" y="129">it: New Zealand, </tspan>
-<tspan x="2656" y="144">Australia, </tspan>
-<tspan x="2656" y="159">France, Norway, </tspan>
-<tspan x="2656" y="174">the United </tspan>
-<tspan x="2656" y="189">Kingdom, Chile, </tspan>
-<tspan x="2656" y="204">and Argentina.&quot;</tspan>
+<tspan x="1639" y="3459">&quot;There are no </tspan>
+<tspan x="1639" y="3474">countries in </tspan>
+<tspan x="1639" y="3489">Antarctica, </tspan>
+<tspan x="1639" y="3504">although seven </tspan>
+<tspan x="1639" y="3519">nations claim </tspan>
+<tspan x="1639" y="3534">different parts of </tspan>
+<tspan x="1639" y="3549">it: New Zealand, </tspan>
+<tspan x="1639" y="3564">Australia, </tspan>
+<tspan x="1639" y="3579">France, Norway, </tspan>
+<tspan x="1639" y="3594">the United </tspan>
+<tspan x="1639" y="3609">Kingdom, Chile, </tspan>
+<tspan x="1639" y="3624">and Argentina.&quot;</tspan>
 </text>
 </g>
-<g id="2000968002"><polygon points="2934,717 2934,518 3026,518 3034,526 3034,717 "
+<g id="2000983829"><polygon points="1918,2167 1918,1968 2010,1968 2018,1976 2018,2167 "
 style="fill:White; stroke-width:1;stroke:Black;"/>
-<line x1="3034" y1="526" x2="3026" y2="526"
+<line x1="2018" y1="1976" x2="2010" y2="1976"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3026" y1="526" x2="3026" y2="518"
+<line x1="2010" y1="1976" x2="2010" y2="1968"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2938" y1="535" x2="3032" y2="535"
- style="stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2945" y="532">&lt;&lt;comment&gt;&gt;</tspan>
-</text>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2938" y="547">&quot;There are no </tspan>
-<tspan x="2938" y="562">countries in </tspan>
-<tspan x="2938" y="577">Antarctica, </tspan>
-<tspan x="2938" y="592">although seven </tspan>
-<tspan x="2938" y="607">nations claim </tspan>
-<tspan x="2938" y="622">different parts of </tspan>
-<tspan x="2938" y="637">it: New Zealand, </tspan>
-<tspan x="2938" y="652">Australia, </tspan>
-<tspan x="2938" y="667">France, Norway, </tspan>
-<tspan x="2938" y="682">the United </tspan>
-<tspan x="2938" y="697">Kingdom, Chile, </tspan>
-<tspan x="2938" y="712">and Argentina.&quot;</tspan>
-</text>
-</g>
-<g id="2000968797"><polygon points="2089,184 2199,184 2199,248 2089,248 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2097" y="198">AntarcticaCountry</tspan>
-<tspan x="2093" y="213">{http://www.co-ode.</tspan>
-<tspan x="2094" y="228">org/ontologies/ont.</tspan>
-<tspan x="2133" y="243">owl}</tspan>
-</text>
-</g>
-<g id="2000968810"><polygon points="2969,1244 3114,1244 3114,1308 2969,1308 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2977" y="1258">ClearSky{http://www.co-</tspan>
-<tspan x="2979" y="1273">ode.org/ontologies/ont.</tspan>
-<tspan x="3029" y="1288">owl}:</tspan>
-<tspan x="2974" y="1303">GoodWeatherConditions</tspan>
-</text>
-</g>
-<g id="2000968823"><polygon points="1627,184 1739,184 1739,248 1627,248 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1631" y="198">WeatherConditions</tspan>
-<tspan x="1632" y="213">{http://www.co-ode.</tspan>
-<tspan x="1633" y="228">org/ontologies/ont.</tspan>
-<tspan x="1672" y="243">owl}</tspan>
-</text>
-</g>
-<g id="2000968836"><polygon points="2714,654 2824,654 2824,718 2714,718 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2718" y="668">India{http://www.co</tspan>
-<tspan x="2745" y="683">-ode.org/</tspan>
-<tspan x="2718" y="698">ontologies/ont.owl}</tspan>
-<tspan x="2732" y="713">:AsianCountry</tspan>
-</text>
-</g>
-<g id="2000968849"><polygon points="2395,143 2505,143 2505,207 2395,207 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2412" y="157">Sweden{http://</tspan>
-<tspan x="2405" y="172">www.co-ode.org/</tspan>
-<tspan x="2399" y="187">ontologies/ont.owl}</tspan>
-<tspan x="2401" y="202">:EuropeanCountry</tspan>
-</text>
-</g>
-<g id="2000968862"><polygon points="1098,672 1208,672 1208,721 1098,721 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1126" y="686">Ana:Thing</tspan>
-</text>
-<line x1="1102" y1="689" x2="1206" y2="689"
+<line x1="1922" y1="1985" x2="2016" y2="1985"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1102" y="701">hasAge=17^^</tspan>
-<tspan x="1102" y="716">integer</tspan>
+<tspan x="1929" y="1982">&lt;&lt;comment&gt;&gt;</tspan>
+</text>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1922" y="1997">&quot;There are no </tspan>
+<tspan x="1922" y="2012">countries in </tspan>
+<tspan x="1922" y="2027">Antarctica, </tspan>
+<tspan x="1922" y="2042">although seven </tspan>
+<tspan x="1922" y="2057">nations claim </tspan>
+<tspan x="1922" y="2072">different parts of </tspan>
+<tspan x="1922" y="2087">it: New Zealand, </tspan>
+<tspan x="1922" y="2102">Australia, </tspan>
+<tspan x="1922" y="2117">France, Norway, </tspan>
+<tspan x="1922" y="2132">the United </tspan>
+<tspan x="1922" y="2147">Kingdom, Chile, </tspan>
+<tspan x="1922" y="2162">and Argentina.&quot;</tspan>
 </text>
 </g>
-<g id="2000968879"><polygon points="1833,1637 1943,1637 1943,1701 1833,1701 "
+<g id="2000984624"><polygon points="496,1330 606,1330 606,1379 496,1379 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1838" y="1651">Photography{http://</tspan>
-<tspan x="1843" y="1666">www.co-ode.org/</tspan>
-<tspan x="1837" y="1681">ontologies/ont.owl}</tspan>
-<tspan x="1880" y="1696">:Art</tspan>
+<tspan x="502" y="1344">Engineering{http://</tspan>
+<tspan x="506" y="1359">www.co-ode.org/</tspan>
+<tspan x="500" y="1374">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000968892"><polygon points="2403,1081 2513,1081 2513,1135 2403,1135 "
+<g id="2000984637"><polygon points="1112,2782 1222,2782 1222,2831 1112,2831 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2427" y="1095">Girl:Gender</tspan>
+<tspan x="1136" y="2796">Jonny:Child</tspan>
 </text>
-</g>
-<g id="2000968905"><polygon points="2678,258 2811,258 2811,322 2678,322 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2681" y="272">Jamaica{http://www.co-</tspan>
-<tspan x="2682" y="287">ode.org/ontologies/ont.</tspan>
-<tspan x="2732" y="302">owl}:</tspan>
-<tspan x="2683" y="317">NorthAmericanCountry</tspan>
-</text>
-</g>
-<g id="2000968918"><polygon points="2801,822 2938,822 2938,886 2801,886 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2811" y="836">Cloudy{http://www.co-</tspan>
-<tspan x="2807" y="851">ode.org/ontologies/ont.</tspan>
-<tspan x="2857" y="866">owl}:</tspan>
-<tspan x="2806" y="881">BadWeatherConditions</tspan>
-</text>
-</g>
-<g id="2000968931"><polygon points="3282,881 3392,881 3392,945 3282,945 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3298" y="895">Somalia{http://</tspan>
-<tspan x="3292" y="910">www.co-ode.org/</tspan>
-<tspan x="3286" y="925">ontologies/ont.owl}</tspan>
-<tspan x="3297" y="940">:AfricanCountry</tspan>
-</text>
-</g>
-<g id="2000968944"><polygon points="1935,184 2067,184 2067,233 1935,233 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1939" y="198">SouthAmericanCountry</tspan>
-<tspan x="1939" y="213">{http://www.co-ode.org/</tspan>
-<tspan x="1950" y="228">ontologies/ont.owl}</tspan>
-</text>
-</g>
-<g id="2000968957"><polygon points="2329,1233 2439,1233 2439,1278 2329,1278 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2355" y="1247">toyGun:Toy</tspan>
-</text>
-</g>
-<g id="2000968970"><polygon points="1949,1677 2059,1677 2059,1741 1949,1741 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1953" y="1691">Biology{http://www.</tspan>
-<tspan x="1974" y="1706">co-ode.org/</tspan>
-<tspan x="1953" y="1721">ontologies/ont.owl}</tspan>
-<tspan x="1981" y="1736">:Science</tspan>
-</text>
-</g>
-<g id="2000968983"><polygon points="2969,1189 3114,1189 3114,1238 2969,1238 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2973" y="1203">Sunny{http://www.co-ode.</tspan>
-<tspan x="2978" y="1218">org/ontologies/ont.owl}:</tspan>
-<tspan x="2974" y="1233">GoodWeatherConditions</tspan>
-</text>
-</g>
-<g id="2000968996"><polygon points="1473,184 1583,184 1583,248 1473,248 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1485" y="198">OceaniaCountry</tspan>
-<tspan x="1477" y="213">{http://www.co-ode.</tspan>
-<tspan x="1478" y="228">org/ontologies/ont.</tspan>
-<tspan x="1517" y="243">owl}</tspan>
-</text>
-</g>
-<g id="2000969009"><polygon points="2805,584 2915,584 2915,648 2805,648 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2812" y="598">UK{http://www.co-</tspan>
-<tspan x="2809" y="613">ode.org/ontologies</tspan>
-<tspan x="2836" y="628">/ont.owl}:</tspan>
-<tspan x="2813" y="643">AntarcticaCountry</tspan>
-</text>
-</g>
-<g id="2000969022"><polygon points="1833,1567 1943,1567 1943,1631 1833,1631 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1841" y="1581">Music{http://www.</tspan>
-<tspan x="1858" y="1596">co-ode.org/</tspan>
-<tspan x="1837" y="1611">ontologies/ont.owl}</tspan>
-<tspan x="1880" y="1626">:Art</tspan>
-</text>
-</g>
-<g id="2000969035"><polygon points="2892,934 3029,934 3029,998 2892,998 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2904" y="948">Windy{http://www.co-</tspan>
-<tspan x="2898" y="963">ode.org/ontologies/ont.</tspan>
-<tspan x="2948" y="978">owl}:</tspan>
-<tspan x="2897" y="993">BadWeatherConditions</tspan>
-</text>
-</g>
-<g id="2000969048"><polygon points="1242,1576 1352,1576 1352,1625 1242,1625 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1246" y="1590">AsianCountry{http:/</tspan>
-<tspan x="1250" y="1605">/www.co-ode.org/</tspan>
-<tspan x="1246" y="1620">ontologies/ont.owl}</tspan>
-</text>
-</g>
-<g id="2000969061"><polygon points="1319,184 1453,184 1453,233 1319,233 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1323" y="198">BadWeatherConditions</tspan>
-<tspan x="1324" y="213">{http://www.co-ode.org/</tspan>
-<tspan x="1335" y="228">ontologies/ont.owl}</tspan>
-</text>
-</g>
-<g id="2000969074"><polygon points="1396,1576 1506,1576 1506,1625 1396,1625 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1402" y="1590">Engineering{http://</tspan>
-<tspan x="1406" y="1605">www.co-ode.org/</tspan>
-<tspan x="1400" y="1620">ontologies/ont.owl}</tspan>
-</text>
-</g>
-<g id="2000969087"><polygon points="2488,44 2623,44 2623,108 2488,108 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2492" y="58">Argentina{http://www.co</tspan>
-<tspan x="2501" y="73">-ode.org/ontologies/</tspan>
-<tspan x="2533" y="88">ont.owl}:</tspan>
-<tspan x="2493" y="103">SouthAmericanCountry</tspan>
-</text>
-</g>
-<g id="2000969100"><polygon points="2323,840 2433,840 2433,887 2323,887 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2344" y="854">Glock-18:Gift</tspan>
-</text>
-</g>
-<g id="2000969113"><polygon points="2078,533 2208,533 2208,578 2078,578 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2131" y="547">Sea:</tspan>
-<tspan x="2082" y="562">TransportationMedium</tspan>
-</text>
-</g>
-<g id="2000969126"><polygon points="1319,300 1429,300 1429,364 1319,364 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1327" y="314">EuropeanCountry</tspan>
-<tspan x="1323" y="329">{http://www.co-ode.</tspan>
-<tspan x="1324" y="344">org/ontologies/ont.</tspan>
-<tspan x="1363" y="359">owl}</tspan>
-</text>
-</g>
-<g id="2000969139"><polygon points="1830,1376 1940,1376 1940,1421 1830,1421 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1851" y="1390">Guns:Military</tspan>
-</text>
-</g>
-<g id="2000969152"><polygon points="2335,1143 2445,1143 2445,1188 2335,1188 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2359" y="1157">ToyGun:Gift</tspan>
-</text>
-</g>
-<g id="2000969165"><polygon points="259,1346 391,1346 391,1410 259,1410 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="263" y="1360">AerospaceEngineering</tspan>
-<tspan x="263" y="1375">{http://www.co-ode.org/</tspan>
-<tspan x="272" y="1390">ontologies/ont.owl}:</tspan>
-<tspan x="292" y="1405">Engineering</tspan>
-</text>
-</g>
-<g id="2000969178"><polygon points="76,1384 211,1384 211,1448 76,1448 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="79" y="1398">MechanicalEngineering</tspan>
-<tspan x="81" y="1413">{http://www.co-ode.org/</tspan>
-<tspan x="90" y="1428">ontologies/ont.owl}:</tspan>
-<tspan x="110" y="1443">Engineering</tspan>
-</text>
-</g>
-<g id="2000969191"><polygon points="2413,232 2523,232 2523,296 2413,296 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2418" y="246">Italy{http://www.co-</tspan>
-<tspan x="2417" y="261">ode.org/ontologies</tspan>
-<tspan x="2444" y="276">/ont.owl}:</tspan>
-<tspan x="2421" y="291">EuropeanCountry</tspan>
-</text>
-</g>
-<g id="2000969204"><polygon points="2001,1588 2111,1588 2111,1652 2001,1652 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2012" y="1602">Chemistry{http://</tspan>
-<tspan x="2011" y="1617">www.co-ode.org/</tspan>
-<tspan x="2005" y="1632">ontologies/ont.owl}</tspan>
-<tspan x="2033" y="1647">:Science</tspan>
-</text>
-</g>
-<g id="2000969217"><polygon points="2977,1017 3114,1017 3114,1081 2977,1081 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2988" y="1031">Snowy{http://www.co-</tspan>
-<tspan x="2983" y="1046">ode.org/ontologies/ont.</tspan>
-<tspan x="3033" y="1061">owl}:</tspan>
-<tspan x="2982" y="1076">BadWeatherConditions</tspan>
-</text>
-</g>
-<g id="2000969230"><polygon points="2050,324 2160,324 2160,388 2050,388 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2054" y="338">Samoa{http://www.</tspan>
-<tspan x="2075" y="353">co-ode.org/</tspan>
-<tspan x="2054" y="368">ontologies/ont.owl}</tspan>
-<tspan x="2060" y="383">:OceaniaCountry</tspan>
-</text>
-</g>
-<g id="2000969243"><polygon points="1473,300 1583,300 1583,364 1473,364 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1489" y="314">AfricanCountry</tspan>
-<tspan x="1477" y="329">{http://www.co-ode.</tspan>
-<tspan x="1478" y="344">org/ontologies/ont.</tspan>
-<tspan x="1517" y="359">owl}</tspan>
-</text>
-</g>
-<g id="2000969256"><polygon points="2050,394 2160,394 2160,458 2050,458 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2057" y="408">Tonga{http://www.</tspan>
-<tspan x="2075" y="423">co-ode.org/</tspan>
-<tspan x="2054" y="438">ontologies/ont.owl}</tspan>
-<tspan x="2060" y="453">:OceaniaCountry</tspan>
-</text>
-</g>
-<g id="2000969269"><polygon points="2323,899 2433,899 2433,956 2323,956 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2349" y="913">ToyCar:Gift</tspan>
-</text>
-</g>
-<g id="2000969282"><polygon points="2207,1487 2317,1487 2317,1551 2207,1551 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2211" y="1501">Mathematics{http://</tspan>
-<tspan x="2217" y="1516">www.co-ode.org/</tspan>
-<tspan x="2211" y="1531">ontologies/ont.owl}</tspan>
-<tspan x="2239" y="1546">:Science</tspan>
-</text>
-</g>
-<g id="2000969295"><polygon points="1110,1158 1220,1158 1220,1241 1110,1241 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1127" y="1172">Drone:Modern</tspan>
-</text>
-</g>
-<g id="2000969308"><polygon points="3282,951 3392,951 3392,1015 3282,1015 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3299" y="965">Ethiopia{http://</tspan>
-<tspan x="3292" y="980">www.co-ode.org/</tspan>
-<tspan x="3286" y="995">ontologies/ont.owl}</tspan>
-<tspan x="3297" y="1010">:AfricanCountry</tspan>
-</text>
-</g>
-<g id="2000969321"><polygon points="2011,1747 2121,1747 2121,1796 2011,1796 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2015" y="1761">Film{http://www.co-</tspan>
-<tspan x="2015" y="1776">ode.org/ontologies</tspan>
-<tspan x="2035" y="1791">/ont.owl}:Art</tspan>
-</text>
-</g>
-<g id="2000969334"><polygon points="270,1276 391,1276 391,1340 270,1340 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="273" y="1290">SoftwareEngineering</tspan>
-<tspan x="279" y="1305">{http://www.co-ode.</tspan>
-<tspan x="280" y="1320">org/ontologies/ont.</tspan>
-<tspan x="284" y="1335">owl}:Engineering</tspan>
-</text>
-</g>
-<g id="2000969347"><polygon points="1700,1421 1810,1421 1810,1485 1700,1485 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1713" y="1435">Sculpture{http://</tspan>
-<tspan x="1710" y="1450">www.co-ode.org/</tspan>
-<tspan x="1704" y="1465">ontologies/ont.owl}</tspan>
-<tspan x="1747" y="1480">:Art</tspan>
-</text>
-</g>
-<g id="2000969360"><polygon points="2511,125 2646,125 2646,189 2511,189 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2524" y="139">Brazil{http://www.co-</tspan>
-<tspan x="2516" y="154">ode.org/ontologies/ont.</tspan>
-<tspan x="2566" y="169">owl}:</tspan>
-<tspan x="2516" y="184">SouthAmericanCountry</tspan>
-</text>
-</g>
-<g id="2000969373"><polygon points="1612,1491 1722,1491 1722,1555 1612,1555 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1629" y="1505">Painting{http://</tspan>
-<tspan x="1622" y="1520">www.co-ode.org/</tspan>
-<tspan x="1616" y="1535">ontologies/ont.owl}</tspan>
-<tspan x="1659" y="1550">:Art</tspan>
-</text>
-</g>
-<g id="2000969386"><polygon points="1232,1358 1342,1358 1342,1403 1232,1403 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1253" y="1372">ArmyService:</tspan>
-<tspan x="1269" y="1387">Military</tspan>
-</text>
-</g>
-<g id="2000969399"><polygon points="1952,1424 2062,1424 2062,1488 1952,1488 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1970" y="1438">Physics{http://</tspan>
-<tspan x="1962" y="1453">www.co-ode.org/</tspan>
-<tspan x="1956" y="1468">ontologies/ont.owl}</tspan>
-<tspan x="1984" y="1483">:Science</tspan>
-</text>
-</g>
-<g id="2000969412"><polygon points="281,1094 391,1094 391,1158 281,1158 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="292" y="1108">CivilEngineering</tspan>
-<tspan x="285" y="1123">{http://www.co-ode.</tspan>
-<tspan x="286" y="1138">org/ontologies/ont.</tspan>
-<tspan x="290" y="1153">owl}:Engineering</tspan>
-</text>
-</g>
-<g id="2000969425"><polygon points="268,1200 391,1200 391,1264 268,1264 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="271" y="1214">ElectricalEngineering</tspan>
-<tspan x="278" y="1229">{http://www.co-ode.</tspan>
-<tspan x="279" y="1244">org/ontologies/ont.</tspan>
-<tspan x="283" y="1259">owl}:Engineering</tspan>
-</text>
-</g>
-<g id="2000969438"><polygon points="1110,899 1220,899 1220,944 1110,944 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1133" y="913">Music:Thing</tspan>
-</text>
-</g>
-<g id="2000969451"><polygon points="2811,347 2944,347 2944,411 2811,411 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2816" y="361">Canada{http://www.co-</tspan>
-<tspan x="2815" y="376">ode.org/ontologies/ont.</tspan>
-<tspan x="2865" y="391">owl}:</tspan>
-<tspan x="2816" y="406">NorthAmericanCountry</tspan>
-</text>
-</g>
-<g id="2000969464"><polygon points="1627,300 1737,300 1737,349 1627,349 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1631" y="314">Interest{http://www.</tspan>
-<tspan x="1652" y="329">co-ode.org/</tspan>
-<tspan x="1631" y="344">ontologies/ont.owl}</tspan>
-</text>
-</g>
-<g id="2000969477"><polygon points="2198,677 2328,677 2328,722 2198,722 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2255" y="691">Air:</tspan>
-<tspan x="2202" y="706">TransportationMedium</tspan>
-</text>
-</g>
-<g id="2000969490"><polygon points="1086,1018 1218,1018 1218,1063 1086,1063 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1097" y="1032">MagicRaindeerSled:</tspan>
-<tspan x="1091" y="1047">TranspotationMethods</tspan>
-</text>
-</g>
-<g id="2000969503"><polygon points="1110,739 1220,739 1220,788 1110,788 "
-style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1134" y="753">Jonny:Child</tspan>
-</text>
-<line x1="1114" y1="756" x2="1218" y2="756"
+<line x1="1116" y1="2799" x2="1220" y2="2799"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1114" y="768">hasAge=10^^</tspan>
-<tspan x="1114" y="783">integer</tspan>
+<tspan x="1116" y="2811">hasAge=10^^</tspan>
+<tspan x="1116" y="2826">integer</tspan>
 </text>
 </g>
-<g id="2000969520"><polygon points="157,1024 282,1024 282,1088 157,1088 "
+<g id="2000984654"><polygon points="334,1450 444,1450 444,1499 334,1499 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="160" y="1038">StructuralEngineering</tspan>
-<tspan x="168" y="1053">{http://www.co-ode.</tspan>
-<tspan x="169" y="1068">org/ontologies/ont.</tspan>
-<tspan x="173" y="1083">owl}:Engineering</tspan>
+<tspan x="338" y="1464">AsianCountry{http:/</tspan>
+<tspan x="342" y="1479">/www.co-ode.org/</tspan>
+<tspan x="338" y="1494">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000969533"><polygon points="1165,300 1307,300 1307,349 1165,349 "
+<g id="2000984667"><polygon points="1635,686 1756,686 1756,750 1635,750 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1169" y="314">GoodWeatherConditions</tspan>
-<tspan x="1174" y="329">{http://www.co-ode.org/</tspan>
-<tspan x="1185" y="344">ontologies/ont.owl}</tspan>
+<tspan x="1638" y="700">SoftwareEngineering</tspan>
+<tspan x="1644" y="715">{http://www.co-ode.</tspan>
+<tspan x="1645" y="730">org/ontologies/ont.</tspan>
+<tspan x="1649" y="745">owl}:Engineering</tspan>
 </text>
 </g>
-<g id="2000969546"><polygon points="2846,417 2976,417 2976,481 2846,481 "
+<g id="2000984680"><polygon points="1534,546 1657,546 1657,610 1534,610 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2860" y="431">USA{http://www.co-</tspan>
-<tspan x="2859" y="446">ode.org/ontologies/</tspan>
-<tspan x="2889" y="461">ont.owl}:</tspan>
-<tspan x="2850" y="476">NorthAmericanCountry</tspan>
+<tspan x="1537" y="560">ElectricalEngineering</tspan>
+<tspan x="1544" y="575">{http://www.co-ode.</tspan>
+<tspan x="1545" y="590">org/ontologies/ont.</tspan>
+<tspan x="1549" y="605">owl}:Engineering</tspan>
 </text>
 </g>
-<g id="2000969559"><polygon points="1011,242 1121,242 1121,291 1011,291 "
+<g id="2000984693"><polygon points="1257,103 1394,103 1394,167 1257,167 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1028" y="256">Science{http://</tspan>
-<tspan x="1021" y="271">www.co-ode.org/</tspan>
-<tspan x="1015" y="286">ontologies/ont.owl}</tspan>
+<tspan x="1267" y="117">Cloudy{http://www.co-</tspan>
+<tspan x="1263" y="132">ode.org/ontologies/ont.</tspan>
+<tspan x="1313" y="147">owl}:</tspan>
+<tspan x="1262" y="162">BadWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000969572"><polygon points="3540,1001 3650,1001 3650,1065 3540,1065 "
+<g id="2000984706"><polygon points="1659,1006 1769,1006 1769,1070 1659,1070 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3548" y="1015">SouthAfrica{http://</tspan>
-<tspan x="3550" y="1030">www.co-ode.org/</tspan>
-<tspan x="3544" y="1045">ontologies/ont.owl}</tspan>
-<tspan x="3555" y="1060">:AfricanCountry</tspan>
+<tspan x="1677" y="1020">Physics{http://</tspan>
+<tspan x="1669" y="1035">www.co-ode.org/</tspan>
+<tspan x="1663" y="1050">ontologies/ont.owl}</tspan>
+<tspan x="1691" y="1065">:Science</tspan>
 </text>
 </g>
-<g id="2000969585"><polygon points="2102,1349 2212,1349 2212,1413 2102,1413 "
+<g id="2000984719"><polygon points="1736,1748 1846,1748 1846,1823 1736,1823 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2108" y="1363">ComputerScience</tspan>
-<tspan x="2106" y="1378">{http://www.co-ode.</tspan>
-<tspan x="2107" y="1393">org/ontologies/ont.</tspan>
-<tspan x="2123" y="1408">owl}:Science</tspan>
+<tspan x="1757" y="1762">Guns:Military</tspan>
 </text>
 </g>
-<g id="2000969598"><polygon points="1781,242 1891,242 1891,291 1781,291 "
+<g id="2000984732"><polygon points="1659,1829 1792,1829 1792,1893 1659,1893 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1799" y="256">Country{http://</tspan>
-<tspan x="1791" y="271">www.co-ode.org/</tspan>
-<tspan x="1785" y="286">ontologies/ont.owl}</tspan>
+<tspan x="1662" y="1843">Jamaica{http://www.co-</tspan>
+<tspan x="1663" y="1858">ode.org/ontologies/ont.</tspan>
+<tspan x="1713" y="1873">owl}:</tspan>
+<tspan x="1664" y="1888">NorthAmericanCountry</tspan>
 </text>
 </g>
-<g id="2000969611"><polygon points="210,761 320,761 320,810 210,810 "
+<g id="2000984745"><polygon points="268,2772 378,2772 378,2817 268,2817 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="219" y="775">Art{http://www.co-</tspan>
-<tspan x="214" y="790">ode.org/ontologies</tspan>
-<tspan x="243" y="805">/ont.owl}</tspan>
+<tspan x="291" y="2786">Music:Thing</tspan>
 </text>
 </g>
-<g id="2000969624"><polygon points="3282,1150 3392,1150 3392,1214 3282,1214 "
+<g id="2000984758"><polygon points="1659,1432 1769,1432 1769,1496 1659,1496 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3291" y="1164">Egypt{http://www.</tspan>
-<tspan x="3307" y="1179">co-ode.org/</tspan>
-<tspan x="3286" y="1194">ontologies/ont.owl}</tspan>
-<tspan x="3297" y="1209">:AfricanCountry</tspan>
+<tspan x="1676" y="1446">Painting{http://</tspan>
+<tspan x="1669" y="1461">www.co-ode.org/</tspan>
+<tspan x="1663" y="1476">ontologies/ont.owl}</tspan>
+<tspan x="1706" y="1491">:Art</tspan>
 </text>
 </g>
-<g id="2000969637"><polygon points="3540,1071 3650,1071 3650,1135 3540,1135 "
+<g id="2000984771"><polygon points="334,1570 476,1570 476,1619 334,1619 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3547" y="1085">Kenya{http://www.</tspan>
-<tspan x="3565" y="1100">co-ode.org/</tspan>
-<tspan x="3544" y="1115">ontologies/ont.owl}</tspan>
-<tspan x="3555" y="1130">:AfricanCountry</tspan>
+<tspan x="338" y="1584">GoodWeatherConditions</tspan>
+<tspan x="343" y="1599">{http://www.co-ode.org/</tspan>
+<tspan x="354" y="1614">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000969650"><polygon points="2977,1119 3114,1119 3114,1183 2977,1183 "
+<g id="2000984784"><polygon points="1659,1572 1769,1572 1769,1636 1659,1636 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2990" y="1133">Rainy{http://www.co-</tspan>
-<tspan x="2983" y="1148">ode.org/ontologies/ont.</tspan>
-<tspan x="3033" y="1163">owl}:</tspan>
-<tspan x="2982" y="1178">BadWeatherConditions</tspan>
+<tspan x="1672" y="1586">Sculpture{http://</tspan>
+<tspan x="1669" y="1601">www.co-ode.org/</tspan>
+<tspan x="1663" y="1616">ontologies/ont.owl}</tspan>
+<tspan x="1706" y="1631">:Art</tspan>
 </text>
 </g>
-<g id="2000969663"><polygon points="1595,1683 1705,1683 1705,1747 1595,1747 "
+<g id="2000984797"><polygon points="1556,866 1691,866 1691,930 1556,930 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1602" y="1697">Poetry{http://www.</tspan>
-<tspan x="1620" y="1712">co-ode.org/</tspan>
-<tspan x="1599" y="1727">ontologies/ont.owl}</tspan>
-<tspan x="1642" y="1742">:Art</tspan>
+<tspan x="1559" y="880">MechanicalEngineering</tspan>
+<tspan x="1561" y="895">{http://www.co-ode.org/</tspan>
+<tspan x="1570" y="910">ontologies/ont.owl}:</tspan>
+<tspan x="1590" y="925">Engineering</tspan>
 </text>
 </g>
-<g id="2000969676"><polygon points="2335,1005 2445,1005 2445,1069 2335,1069 "
+<g id="2000984810"><polygon points="1760,2548 1870,2548 1870,2612 1760,2612 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2359" y="1019">Boy:Gender</tspan>
+<tspan x="1779" y="2562">Delivery_Van:</tspan>
+<tspan x="1795" y="2577">Classic</tspan>
 </text>
 </g>
-<g id="2000969689"><polygon points="1011,358 1141,358 1141,407 1011,407 "
+<g id="2000984823"><polygon points="1575,3080 1707,3080 1707,3125 1575,3125 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1015" y="372">NorthAmericanCountry</tspan>
-<tspan x="1016" y="387">{http://www.co-ode.org</tspan>
-<tspan x="1023" y="402">/ontologies/ont.owl}</tspan>
+<tspan x="1586" y="3094">MagicRaindeerSled:</tspan>
+<tspan x="1580" y="3109">TranspotationMethods</tspan>
 </text>
 </g>
-<g id="2000969702"><polygon points="2198,1298 2327,1298 2327,1343 2198,1343 "
+<g id="2000984836"><polygon points="1760,2338 1870,2338 1870,2402 1760,2402 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2226" y="1312">Delivery_Van:</tspan>
-<tspan x="2201" y="1327">TranspotationMethods</tspan>
+<tspan x="1764" y="2352">India{http://www.co</tspan>
+<tspan x="1791" y="2367">-ode.org/</tspan>
+<tspan x="1764" y="2382">ontologies/ont.owl}</tspan>
+<tspan x="1778" y="2397">:AsianCountry</tspan>
 </text>
 </g>
-<g id="2000969715"><polygon points="2783,740 2928,740 2928,804 2783,804 "
+<g id="2000984849"><polygon points="1659,1502 1769,1502 1769,1566 1659,1566 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2797" y="754">TheHistoryOfCinema:</tspan>
-<tspan x="2842" y="769">Book</tspan>
+<tspan x="1667" y="1516">Music{http://www.</tspan>
+<tspan x="1684" y="1531">co-ode.org/</tspan>
+<tspan x="1663" y="1546">ontologies/ont.owl}</tspan>
+<tspan x="1706" y="1561">:Art</tspan>
 </text>
-<line x1="2787" y1="772" x2="2926" y2="772"
+</g>
+<g id="2000984862"><polygon points="1345,33 1482,33 1482,97 1345,97 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1357" y="47">Windy{http://www.co-</tspan>
+<tspan x="1351" y="62">ode.org/ontologies/ont.</tspan>
+<tspan x="1401" y="77">owl}:</tspan>
+<tspan x="1350" y="92">BadWeatherConditions</tspan>
+</text>
+</g>
+<g id="2000984875"><polygon points="1760,2408 1870,2408 1870,2472 1760,2472 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1764" y="2422">Samoa{http://www.</tspan>
+<tspan x="1785" y="2437">co-ode.org/</tspan>
+<tspan x="1764" y="2452">ontologies/ont.owl}</tspan>
+<tspan x="1770" y="2467">:OceaniaCountry</tspan>
+</text>
+</g>
+<g id="2000984888"><polygon points="1659,1899 1792,1899 1792,1963 1659,1963 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1664" y="1913">Canada{http://www.co-</tspan>
+<tspan x="1663" y="1928">ode.org/ontologies/ont.</tspan>
+<tspan x="1713" y="1943">owl}:</tspan>
+<tspan x="1664" y="1958">NorthAmericanCountry</tspan>
+</text>
+</g>
+<g id="2000984901"><polygon points="1539,616 1671,616 1671,680 1539,680 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1543" y="630">AerospaceEngineering</tspan>
+<tspan x="1543" y="645">{http://www.co-ode.org/</tspan>
+<tspan x="1552" y="660">ontologies/ont.owl}:</tspan>
+<tspan x="1572" y="675">Engineering</tspan>
+</text>
+</g>
+<g id="2000984914"><polygon points="1558,3131 1693,3131 1693,3195 1558,3195 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1562" y="3145">Argentina{http://www.co</tspan>
+<tspan x="1571" y="3160">-ode.org/ontologies/</tspan>
+<tspan x="1603" y="3175">ont.owl}:</tspan>
+<tspan x="1563" y="3190">SouthAmericanCountry</tspan>
+</text>
+</g>
+<g id="2000984927"><polygon points="334,1330 466,1330 466,1379 334,1379 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="338" y="1344">SouthAmericanCountry</tspan>
+<tspan x="338" y="1359">{http://www.co-ode.org/</tspan>
+<tspan x="349" y="1374">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000984940"><polygon points="172,1570 282,1570 282,1634 172,1634 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="180" y="1584">AntarcticaCountry</tspan>
+<tspan x="176" y="1599">{http://www.co-ode.</tspan>
+<tspan x="177" y="1614">org/ontologies/ont.</tspan>
+<tspan x="216" y="1629">owl}</tspan>
+</text>
+</g>
+<g id="2000984953"><polygon points="1338,281 1475,281 1475,345 1338,345 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1351" y="295">Rainy{http://www.co-</tspan>
+<tspan x="1344" y="310">ode.org/ontologies/ont.</tspan>
+<tspan x="1394" y="325">owl}:</tspan>
+<tspan x="1343" y="340">BadWeatherConditions</tspan>
+</text>
+</g>
+<g id="2000984966"><polygon points="1659,936 1769,936 1769,1000 1659,1000 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1663" y="950">Biology{http://www.</tspan>
+<tspan x="1684" y="965">co-ode.org/</tspan>
+<tspan x="1663" y="980">ontologies/ont.owl}</tspan>
+<tspan x="1691" y="995">:Science</tspan>
+</text>
+</g>
+<g id="2000984979"><polygon points="1150,2727 1260,2727 1260,2776 1150,2776 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1179" y="2741">Ana:Child</tspan>
+</text>
+<line x1="1154" y1="2744" x2="1258" y2="2744"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2787" y="784">apropriateForAgesAndUp</tspan>
-<tspan x="2787" y="799">=15^^integer</tspan>
+<tspan x="1154" y="2756">hasAge=17^^</tspan>
+<tspan x="1154" y="2771">integer</tspan>
 </text>
 </g>
-<g id="2000969732"><polygon points="2078,584 2208,584 2208,629 2078,629 "
+<g id="2000984996"><polygon points="1474,351 1619,351 1619,400 1474,400 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2122" y="598">Ground:</tspan>
-<tspan x="2082" y="613">TransportationMedium</tspan>
+<tspan x="1478" y="365">Sunny{http://www.co-ode.</tspan>
+<tspan x="1483" y="380">org/ontologies/ont.owl}:</tspan>
+<tspan x="1479" y="395">GoodWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000969745"><polygon points="2805,487 2915,487 2915,551 2805,551 "
+<g id="2000985009"><polygon points="1558,3201 1693,3201 1693,3265 1558,3265 "
 style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2809" y="501">Russia{http://www.</tspan>
-<tspan x="2830" y="516">co-ode.org/</tspan>
-<tspan x="2809" y="531">ontologies/ont.owl}</tspan>
-<tspan x="2811" y="546">:EuropeanCountry</tspan>
+<tspan x="1571" y="3215">Brazil{http://www.co-</tspan>
+<tspan x="1563" y="3230">ode.org/ontologies/ont.</tspan>
+<tspan x="1613" y="3245">owl}:</tspan>
+<tspan x="1563" y="3260">SouthAmericanCountry</tspan>
 </text>
 </g>
-<g id="2000967465"><polygon points="2519,1116 2685,1116 2685,1171 2519,1171 "
+<g id="2000985022"><polygon points="1760,2198 1870,2198 1870,2262 1760,2262 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1765" y="2212">Italy{http://www.co-</tspan>
+<tspan x="1764" y="2227">ode.org/ontologies</tspan>
+<tspan x="1791" y="2242">/ont.owl}:</tspan>
+<tspan x="1768" y="2257">EuropeanCountry</tspan>
+</text>
+</g>
+<g id="2000985035"><polygon points="1677,1988 1807,1988 1807,2052 1677,2052 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1691" y="2002">USA{http://www.co-</tspan>
+<tspan x="1690" y="2017">ode.org/ontologies/</tspan>
+<tspan x="1720" y="2032">ont.owl}:</tspan>
+<tspan x="1681" y="2047">NorthAmericanCountry</tspan>
+</text>
+</g>
+<g id="2000985048"><polygon points="1153,2647 1263,2647 1263,2692 1153,2692 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1177" y="2661">Girl:Gender</tspan>
+</text>
+</g>
+<g id="2000985061"><polygon points="1659,1292 1769,1292 1769,1356 1659,1356 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1664" y="1306">Photography{http://</tspan>
+<tspan x="1669" y="1321">www.co-ode.org/</tspan>
+<tspan x="1663" y="1336">ontologies/ont.owl}</tspan>
+<tspan x="1706" y="1351">:Art</tspan>
+</text>
+</g>
+<g id="2000985074"><polygon points="1671,3010 1781,3010 1781,3074 1671,3074 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1678" y="3024">Kenya{http://www.</tspan>
+<tspan x="1696" y="3039">co-ode.org/</tspan>
+<tspan x="1675" y="3054">ontologies/ont.owl}</tspan>
+<tspan x="1686" y="3069">:AfricanCountry</tspan>
+</text>
+</g>
+<g id="2000985087"><polygon points="1760,2478 1870,2478 1870,2542 1760,2542 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1767" y="2492">Tonga{http://www.</tspan>
+<tspan x="1785" y="2507">co-ode.org/</tspan>
+<tspan x="1764" y="2522">ontologies/ont.owl}</tspan>
+<tspan x="1770" y="2537">:OceaniaCountry</tspan>
+</text>
+</g>
+<g id="2000985100"><polygon points="1186,2590 1296,2590 1296,2635 1186,2635 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1215" y="2604">Boy:Thing</tspan>
+</text>
+</g>
+<g id="2000985113"><polygon points="1760,2688 1870,2688 1870,2752 1760,2752 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1768" y="2702">SouthAfrica{http://</tspan>
+<tspan x="1770" y="2717">www.co-ode.org/</tspan>
+<tspan x="1764" y="2732">ontologies/ont.owl}</tspan>
+<tspan x="1775" y="2747">:AfricanCountry</tspan>
+</text>
+</g>
+<g id="2000985126"><polygon points="1736,1642 1846,1642 1846,1691 1736,1691 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1740" y="1656">Film{http://www.co-</tspan>
+<tspan x="1740" y="1671">ode.org/ontologies</tspan>
+<tspan x="1760" y="1686">/ont.owl}:Art</tspan>
+</text>
+</g>
+<g id="2000985139"><polygon points="985,1397 1124,1397 1124,1442 985,1442 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1033" y="1411">Ground:</tspan>
+<tspan x="993" y="1426">TransportationMedium</tspan>
+</text>
+</g>
+<g id="2000985152"><polygon points="1447,3504 1557,3504 1557,3549 1447,3549 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1473" y="3518">toyGun:Toy</tspan>
+</text>
+</g>
+<g id="2000985165"><polygon points="901,1260 1031,1260 1031,1305 901,1305 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="958" y="1274">Air:</tspan>
+<tspan x="905" y="1289">TransportationMedium</tspan>
+</text>
+</g>
+<g id="2000985178"><polygon points="1534,476 1659,476 1659,540 1534,540 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1537" y="490">StructuralEngineering</tspan>
+<tspan x="1545" y="505">{http://www.co-ode.</tspan>
+<tspan x="1546" y="520">org/ontologies/ont.</tspan>
+<tspan x="1550" y="535">owl}:Engineering</tspan>
+</text>
+</g>
+<g id="2000985191"><polygon points="958,1327 1088,1327 1088,1372 958,1372 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1011" y="1341">Sea:</tspan>
+<tspan x="962" y="1356">TransportationMedium</tspan>
+</text>
+</g>
+<g id="2000985204"><polygon points="1558,3271 1668,3271 1668,3316 1558,3316 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1584" y="3285">ToyCar:Gift</tspan>
+</text>
+</g>
+<g id="2000985217"><polygon points="1760,2828 1870,2828 1870,2892 1760,2892 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1776" y="2842">Somalia{http://</tspan>
+<tspan x="1770" y="2857">www.co-ode.org/</tspan>
+<tspan x="1764" y="2872">ontologies/ont.owl}</tspan>
+<tspan x="1775" y="2887">:AfricanCountry</tspan>
+</text>
+</g>
+<g id="2000985230"><polygon points="172,1690 306,1690 306,1739 172,1739 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="176" y="1704">BadWeatherConditions</tspan>
+<tspan x="177" y="1719">{http://www.co-ode.org/</tspan>
+<tspan x="188" y="1734">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000985243"><polygon points="1635,779 1745,779 1745,843 1635,843 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1646" y="793">CivilEngineering</tspan>
+<tspan x="1639" y="808">{http://www.co-ode.</tspan>
+<tspan x="1640" y="823">org/ontologies/ont.</tspan>
+<tspan x="1644" y="838">owl}:Engineering</tspan>
+</text>
+</g>
+<g id="2000985256"><polygon points="1457,406 1602,406 1602,470 1457,470 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1465" y="420">ClearSky{http://www.co-</tspan>
+<tspan x="1467" y="435">ode.org/ontologies/ont.</tspan>
+<tspan x="1517" y="450">owl}:</tspan>
+<tspan x="1462" y="465">GoodWeatherConditions</tspan>
+</text>
+</g>
+<g id="2000985269"><polygon points="658,1270 768,1270 768,1334 658,1334 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="666" y="1284">EuropeanCountry</tspan>
+<tspan x="662" y="1299">{http://www.co-ode.</tspan>
+<tspan x="663" y="1314">org/ontologies/ont.</tspan>
+<tspan x="702" y="1329">owl}</tspan>
+</text>
+</g>
+<g id="2000985282"><polygon points="496,1690 606,1690 606,1754 496,1754 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="508" y="1704">OceaniaCountry</tspan>
+<tspan x="500" y="1719">{http://www.co-ode.</tspan>
+<tspan x="501" y="1734">org/ontologies/ont.</tspan>
+<tspan x="540" y="1749">owl}</tspan>
+</text>
+</g>
+<g id="2000985295"><polygon points="1760,2758 1870,2758 1870,2822 1760,2822 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1777" y="2772">Ethiopia{http://</tspan>
+<tspan x="1770" y="2787">www.co-ode.org/</tspan>
+<tspan x="1764" y="2802">ontologies/ont.owl}</tspan>
+<tspan x="1775" y="2817">:AfricanCountry</tspan>
+</text>
+</g>
+<g id="2000985308"><polygon points="1777,2618 1906,2618 1906,2663 1777,2663 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1823" y="2632">Drone:</tspan>
+<tspan x="1780" y="2647">TranspotationMethods</tspan>
+</text>
+</g>
+<g id="2000985321"><polygon points="658,1510 768,1510 768,1559 658,1559 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="675" y="1524">Science{http://</tspan>
+<tspan x="668" y="1539">www.co-ode.org/</tspan>
+<tspan x="662" y="1554">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000985334"><polygon points="1450,3434 1595,3434 1595,3498 1450,3498 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1464" y="3448">TheHistoryOfCinema:</tspan>
+<tspan x="1509" y="3463">Book</tspan>
+</text>
+<line x1="1454" y1="3466" x2="1593" y2="3466"
+ style="stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1454" y="3478">apropriateForAgesAndUp</tspan>
+<tspan x="1454" y="3493">=15^^integer</tspan>
+</text>
+</g>
+<g id="2000985351"><polygon points="1760,2058 1870,2058 1870,2122 1760,2122 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1767" y="2072">UK{http://www.co-</tspan>
+<tspan x="1764" y="2087">ode.org/ontologies</tspan>
+<tspan x="1791" y="2102">/ont.owl}:</tspan>
+<tspan x="1768" y="2117">EuropeanCountry</tspan>
+</text>
+</g>
+<g id="2000985364"><polygon points="1659,1362 1769,1362 1769,1426 1659,1426 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1666" y="1376">Poetry{http://www.</tspan>
+<tspan x="1684" y="1391">co-ode.org/</tspan>
+<tspan x="1663" y="1406">ontologies/ont.owl}</tspan>
+<tspan x="1706" y="1421">:Art</tspan>
+</text>
+</g>
+<g id="2000985377"><polygon points="1736,1697 1846,1697 1846,1742 1736,1742 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1757" y="1711">ArmyService:</tspan>
+<tspan x="1773" y="1726">Military</tspan>
+</text>
+</g>
+<g id="2000985390"><polygon points="658,1630 768,1630 768,1679 658,1679 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="662" y="1644">Interest{http://www.</tspan>
+<tspan x="683" y="1659">co-ode.org/</tspan>
+<tspan x="662" y="1674">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000985403"><polygon points="1113,3528 1223,3528 1223,3577 1113,3577 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1122" y="3542">Art{http://www.co-</tspan>
+<tspan x="1117" y="3557">ode.org/ontologies</tspan>
+<tspan x="1146" y="3572">/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000985416"><polygon points="1552,3377 1662,3377 1662,3424 1552,3424 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1559" y="3391">Glock-18:Weapon</tspan>
+</text>
+</g>
+<g id="2000985429"><polygon points="496,1570 606,1570 606,1619 496,1619 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="514" y="1584">Country{http://</tspan>
+<tspan x="506" y="1599">www.co-ode.org/</tspan>
+<tspan x="500" y="1614">ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000985442"><polygon points="1659,1216 1769,1216 1769,1280 1659,1280 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1665" y="1230">ComputerScience</tspan>
+<tspan x="1663" y="1245">{http://www.co-ode.</tspan>
+<tspan x="1664" y="1260">org/ontologies/ont.</tspan>
+<tspan x="1680" y="1275">owl}:Science</tspan>
+</text>
+</g>
+<g id="2000985455"><polygon points="1659,1146 1769,1146 1769,1210 1659,1210 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1670" y="1160">Chemistry{http://</tspan>
+<tspan x="1669" y="1175">www.co-ode.org/</tspan>
+<tspan x="1663" y="1190">ontologies/ont.owl}</tspan>
+<tspan x="1691" y="1205">:Science</tspan>
+</text>
+</g>
+<g id="2000985468"><polygon points="1760,2128 1870,2128 1870,2192 1760,2192 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1777" y="2142">Sweden{http://</tspan>
+<tspan x="1770" y="2157">www.co-ode.org/</tspan>
+<tspan x="1764" y="2172">ontologies/ont.owl}</tspan>
+<tspan x="1766" y="2187">:EuropeanCountry</tspan>
+</text>
+</g>
+<g id="2000985481"><polygon points="1659,1076 1769,1076 1769,1140 1659,1140 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1663" y="1090">Mathematics{http://</tspan>
+<tspan x="1669" y="1105">www.co-ode.org/</tspan>
+<tspan x="1663" y="1120">ontologies/ont.owl}</tspan>
+<tspan x="1691" y="1135">:Science</tspan>
+</text>
+</g>
+<g id="2000985494"><polygon points="1558,3322 1668,3322 1668,3367 1558,3367 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1582" y="3336">ToyGun:Toy</tspan>
+</text>
+</g>
+<g id="2000985507"><polygon points="1671,2917 1781,2917 1781,2981 1671,2981 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1680" y="2931">Egypt{http://www.</tspan>
+<tspan x="1696" y="2946">co-ode.org/</tspan>
+<tspan x="1675" y="2961">ontologies/ont.owl}</tspan>
+<tspan x="1686" y="2976">:AfricanCountry</tspan>
+</text>
+</g>
+<g id="2000985520"><polygon points="334,1690 464,1690 464,1739 334,1739 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="338" y="1704">NorthAmericanCountry</tspan>
+<tspan x="339" y="1719">{http://www.co-ode.org</tspan>
+<tspan x="346" y="1734">/ontologies/ont.owl}</tspan>
+</text>
+</g>
+<g id="2000985533"><polygon points="658,1390 768,1390 768,1454 658,1454 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="674" y="1404">AfricanCountry</tspan>
+<tspan x="662" y="1419">{http://www.co-ode.</tspan>
+<tspan x="663" y="1434">org/ontologies/ont.</tspan>
+<tspan x="702" y="1449">owl}</tspan>
+</text>
+</g>
+<g id="2000985546"><polygon points="1311,192 1448,192 1448,256 1311,256 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1322" y="206">Snowy{http://www.co-</tspan>
+<tspan x="1317" y="221">ode.org/ontologies/ont.</tspan>
+<tspan x="1367" y="236">owl}:</tspan>
+<tspan x="1316" y="251">BadWeatherConditions</tspan>
+</text>
+</g>
+<g id="2000985559"><polygon points="1760,2268 1870,2268 1870,2332 1760,2332 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="1764" y="2282">Russia{http://www.</tspan>
+<tspan x="1785" y="2297">co-ode.org/</tspan>
+<tspan x="1764" y="2312">ontologies/ont.owl}</tspan>
+<tspan x="1766" y="2327">:EuropeanCountry</tspan>
+</text>
+</g>
+<g id="2000985572"><polygon points="496,1450 608,1450 608,1514 496,1514 "
+style="fill:#80FF80; stroke-width:1;stroke:Black;"/>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="500" y="1464">WeatherConditions</tspan>
+<tspan x="501" y="1479">{http://www.co-ode.</tspan>
+<tspan x="502" y="1494">org/ontologies/ont.</tspan>
+<tspan x="541" y="1509">owl}</tspan>
+</text>
+</g>
+<g id="2000983292"><polygon points="1166,747 1332,747 1332,802 1166,802 "
 style="fill:url(#activ1); stroke-width:1;stroke:Black;"/>
-<line x1="2523" y1="1169" x2="2683" y2="1169"
+<line x1="1170" y1="800" x2="1330" y2="800"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:14px;kerning:0;word-spacing:-1px;fill:Black;font-weight:bold;">
-<tspan x="2523" y="1132">GoodWeatherConditions</tspan>
-<tspan x="2527" y="1149">{http://www.co-ode.org/</tspan>
-<tspan x="2542" y="1166">ontologies/ont.owl}</tspan>
+<tspan x="1170" y="763">GoodWeatherConditions</tspan>
+<tspan x="1174" y="780">{http://www.co-ode.org/</tspan>
+<tspan x="1189" y="797">ontologies/ont.owl}</tspan>
 </text>
 </g>
-<g id="2000967850"><path d="M1110,782 L775,782 771,784 769,788 769,920 "
+<g id="2000983677"><path d="M991,1442 L991,1812 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="766" y1="914" x2="769" y2="920"
+<line x1="988" y1="1806" x2="991" y2="1812"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="772" y1="914" x2="769" y2="920"
+<line x1="994" y1="1806" x2="991" y2="1812"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="770" y="837">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="992" y="1805">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967852"><path d="M1646,1683 L1646,1662 "
+<g id="2000983679"><path d="M1671,3042 L1564,3042 1560,3040 1558,3036 1558,2812 1556,2808 1552,2806 1492,2806 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1643" y1="1668" x2="1646" y2="1662"
+<line x1="1498" y1="2803" x2="1492" y2="2806"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1649" y1="1668" x2="1646" y2="1662"
+<line x1="1498" y1="2809" x2="1492" y2="2806"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1558" y="1677">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1571" y="3038">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967854"><path d="M2335,1153 L2204,1153 2200,1151 2198,1147 2198,934 2196,930 2192,928 2084,928 "
+<g id="2000983681"><path d="M1575,3115 L126,3115 122,3113 120,3109 120,2829 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2090" y1="925" x2="2084" y2="928"
+<line x1="117" y1="2835" x2="120" y2="2829"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2090" y1="931" x2="2084" y2="928"
+<line x1="123" y1="2835" x2="120" y2="2829"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2199" y="1082">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="492" y="3111">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967856"><path d="M163,1384 L163,1301 "
+<g id="2000983683"><path d="M1558,3207 L1403,3207 1399,3205 1397,3201 1397,2968 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="160" y1="1307" x2="163" y2="1301"
+<line x1="1394" y1="2974" x2="1397" y2="2968"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="166" y1="1307" x2="163" y2="1301"
+<line x1="1400" y1="2974" x2="1397" y2="2968"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="75" y="1316">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1309" y="3162">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967858"><path d="M2870,886 L2870,967 2868,971 2864,973 2697,973 "
+<g id="2000983685"><path d="M268,2794 L175,2794 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2703" y1="970" x2="2697" y2="973"
+<line x1="181" y1="2791" x2="175" y2="2794"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2703" y1="976" x2="2697" y2="973"
+<line x1="181" y1="2797" x2="175" y2="2794"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2871" y="901">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="178" y="2790">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967860"><path d="M2977,1148 L2697,1148 2693,1146 2691,1142 2691,1029 "
+<g id="2000983687"><path d="M1726,2917 L1726,2801 1724,2797 1720,2795 1492,2795 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2688" y1="1035" x2="2691" y2="1029"
+<line x1="1498" y1="2792" x2="1492" y2="2795"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2694" y1="1035" x2="2691" y2="1029"
+<line x1="1498" y1="2798" x2="1492" y2="2795"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2603" y="1106">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1727" y="2911">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967862"><path d="M2805,628 L2696,628 "
+<g id="2000983689"><path d="M1671,1963 L1671,2005 1669,2009 1665,2011 1491,2011 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2702" y1="625" x2="2696" y2="628"
+<line x1="1497" y1="2008" x2="1491" y2="2011"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2702" y1="631" x2="2696" y2="628"
+<line x1="1497" y1="2014" x2="1491" y2="2011"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2715" y="624">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1672" y="1978">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967864"><path d="M2714,686 L2714,686 2710,684 2708,680 2708,537 2702,537 "
+<g id="2000983691"><path d="M1575,3092 L491,3092 487,3090 485,3086 485,2663 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2708" y1="534" x2="2702" y2="537"
+<line x1="482" y1="2669" x2="485" y2="2663"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2708" y1="540" x2="2702" y2="537"
+<line x1="488" y1="2669" x2="485" y2="2663"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2620" y="675">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1154" y="3088">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967866"><path d="M2478,296 L2478,317 "
+<g id="2000983693"><path d="M1450,3492 L1330,3492 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2475" y1="311" x2="2478" y2="317"
+<line x1="1336" y1="3489" x2="1330" y2="3492"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2481" y1="311" x2="2478" y2="317"
+<line x1="1336" y1="3495" x2="1330" y2="3492"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2479" y="311">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1333" y="3488">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967868"><path d="M2783,776 L2690,776 "
+<g id="2000983695"><path d="M1760,2303 L1421,2303 1417,2305 1415,2309 1415,2339 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2696" y1="773" x2="2690" y2="776"
+<line x1="1412" y1="2333" x2="1415" y2="2339"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2696" y1="779" x2="2690" y2="776"
+<line x1="1418" y1="2333" x2="1415" y2="2339"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2693" y="772">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1327" y="2322">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967870"><path d="M2050,413 L1957,413 "
+<g id="2000983697"><path d="M1760,2484 L1491,2484 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1963" y1="410" x2="1957" y2="413"
+<line x1="1497" y1="2481" x2="1491" y2="2484"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1963" y1="416" x2="1957" y2="413"
+<line x1="1497" y1="2487" x2="1491" y2="2484"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1960" y="409">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2480">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967872"><path d="M2335,1159 L1985,1159 "
+<g id="2000983699"><path d="M1760,2852 L1415,2852 1411,2850 1409,2846 1409,2817 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1991" y1="1156" x2="1985" y2="1159"
+<line x1="1406" y1="2823" x2="1409" y2="2817"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1991" y1="1162" x2="1985" y2="1159"
+<line x1="1412" y1="2823" x2="1409" y2="2817"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2199" y="1172">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1321" y="2842">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967874"><path d="M2969,1250 L2581,1250 2577,1248 2575,1244 2575,1171 "
+<g id="2000983701"><path d="M1112,2823 L175,2823 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2572" y1="1177" x2="2575" y2="1171"
+<line x1="181" y1="2820" x2="175" y2="2823"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2578" y1="1177" x2="2575" y2="1171"
+<line x1="181" y1="2826" x2="175" y2="2823"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2582" y="1246">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="391" y="2836">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967876"><path d="M3540,1090 L3447,1090 "
+<g id="2000983703"><path d="M1558,3334 L732,3334 728,3332 726,3328 726,3187 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="3453" y1="1087" x2="3447" y2="1090"
+<line x1="723" y1="3193" x2="726" y2="3187"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3453" y1="1093" x2="3447" y2="1090"
+<line x1="729" y1="3193" x2="726" y2="3187"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3450" y="1086">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1043" y="3330">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967878"><path d="M1098,703 L781,703 "
+<g id="2000983705"><path d="M1305,167 L1305,403 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="787" y1="700" x2="781" y2="703"
+<line x1="1302" y1="397" x2="1305" y2="403"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="787" y1="706" x2="781" y2="703"
+<line x1="1308" y1="397" x2="1305" y2="403"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="784" y="699">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1306" y="182">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967880"><path d="M1232,1364 L1022,1364 1018,1366 1016,1370 1016,1389 "
+<g id="2000983707"><path d="M1558,3305 L1344,3305 1340,3307 1338,3311 1338,3340 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1013" y1="1383" x2="1016" y2="1389"
+<line x1="1335" y1="3334" x2="1338" y2="3340"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1019" y1="1383" x2="1016" y2="1389"
+<line x1="1341" y1="3334" x2="1338" y2="3340"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="928" y="1383">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1345" y="3318">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967882"><path d="M3540,1059 L3447,1059 "
+<g id="2000983709"><path d="M1552,3395 L659,3395 655,3393 653,3389 653,3187 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="3453" y1="1056" x2="3447" y2="1059"
+<line x1="650" y1="3193" x2="653" y2="3187"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3453" y1="1062" x2="3447" y2="1059"
+<line x1="656" y1="3193" x2="653" y2="3187"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3450" y="1055">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="565" y="3202">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967884"><path d="M1092,1063 L1092,1223 1090,1227 1086,1229 866,1229 "
+<g id="2000983711"><path d="M1659,1248 L1420,1248 1416,1246 1414,1242 1414,1183 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="872" y1="1226" x2="866" y2="1229"
+<line x1="1411" y1="1189" x2="1414" y2="1183"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="872" y1="1232" x2="866" y2="1229"
+<line x1="1417" y1="1189" x2="1414" y2="1183"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="879" y="1225">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1421" y="1244">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967886"><path d="M2078,572 L1893,572 1889,574 1887,578 1887,604 "
+<g id="2000983713"><path d="M1558,3293 L71,3293 67,3291 65,3287 65,2829 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1884" y1="598" x2="1887" y2="604"
+<line x1="62" y1="2835" x2="65" y2="2829"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1890" y1="598" x2="1887" y2="604"
+<line x1="68" y1="2835" x2="65" y2="2829"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1799" y="598">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="511" y="3289">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967888"><path d="M2846,441 L2572,441 "
+<g id="2000983715"><path d="M1552,3418 L1421,3418 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2578" y1="438" x2="2572" y2="441"
+<line x1="1427" y1="3415" x2="1421" y2="3418"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2578" y1="444" x2="2572" y2="441"
+<line x1="1427" y1="3421" x2="1421" y2="3418"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2585" y="454">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1434" y="3414">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967890"><path d="M259,1378 L175,1378 171,1376 169,1372 169,1301 "
+<g id="2000983717"><path d="M1760,2606 L1491,2606 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="166" y1="1307" x2="169" y2="1301"
+<line x1="1497" y1="2603" x2="1491" y2="2606"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="172" y1="1307" x2="169" y2="1301"
+<line x1="1497" y1="2609" x2="1491" y2="2606"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="170" y="1316">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2602">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967892"><path d="M2892,979 L2697,979 "
+<g id="2000983719"><path d="M1345,76 L1251,76 1247,78 1245,82 1245,403 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2703" y1="976" x2="2697" y2="979"
+<line x1="1242" y1="397" x2="1245" y2="403"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2703" y1="982" x2="2697" y2="979"
+<line x1="1248" y1="397" x2="1245" y2="403"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2802" y="992">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1157" y="372">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967894"><path d="M1995,1677 L1995,1567 "
+<g id="2000983721"><path d="M1556,909 L1399,909 1395,907 1393,903 1393,863 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1992" y1="1573" x2="1995" y2="1567"
+<line x1="1390" y1="869" x2="1393" y2="863"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1998" y1="1573" x2="1995" y2="1567"
+<line x1="1396" y1="869" x2="1393" y2="863"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1996" y="1671">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1400" y="905">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967896"><path d="M2789,804 L2789,887 2787,891 2783,893 2084,893 "
+<g id="2000983723"><path d="M1659,1604 L1403,1604 1399,1602 1397,1598 1397,1533 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2090" y1="890" x2="2084" y2="893"
+<line x1="1394" y1="1539" x2="1397" y2="1533"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2090" y1="896" x2="2084" y2="893"
+<line x1="1400" y1="1539" x2="1397" y2="1533"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2701" y="829">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1309" y="1548">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967898"><path d="M2403,1129 L1238,1129 1234,1127 1232,1123 1232,966 1230,962 1226,960 794,960 "
+<g id="2000983725"><path d="M1558,3282 L806,3282 802,3280 800,3276 800,3187 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="800" y1="957" x2="794" y2="960"
+<line x1="797" y1="3193" x2="800" y2="3187"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="800" y1="963" x2="794" y2="960"
+<line x1="803" y1="3193" x2="800" y2="3187"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="998" y="973">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="801" y="3202">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967900"><path d="M2329,1256 L1908,1256 1904,1254 1902,1250 1902,1184 "
+<g id="2000983727"><path d="M1760,2368 L1491,2368 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1899" y1="1190" x2="1902" y2="1184"
+<line x1="1497" y1="2365" x2="1491" y2="2368"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1905" y1="1190" x2="1902" y2="1184"
+<line x1="1497" y1="2371" x2="1491" y2="2368"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1814" y="1246">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2364">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967902"><path d="M1833,1656 L1740,1656 "
+<g id="2000983729"><path d="M1736,1715 L1428,1715 1424,1713 1422,1709 1422,1696 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1746" y1="1653" x2="1740" y2="1656"
+<line x1="1419" y1="1702" x2="1422" y2="1696"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1746" y1="1659" x2="1740" y2="1656"
+<line x1="1425" y1="1702" x2="1422" y2="1696"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1743" y="1652">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1429" y="1711">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967904"><path d="M1110,1235 L866,1235 "
+<g id="2000983731"><path d="M1659,1521 L1479,1521 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="872" y1="1232" x2="866" y2="1235"
+<line x1="1485" y1="1518" x2="1479" y2="1521"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="872" y1="1238" x2="866" y2="1235"
+<line x1="1485" y1="1524" x2="1479" y2="1521"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="879" y="1248">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1535" y="1517">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967906"><path d="M2329,956 L2329,1141 2327,1145 2323,1147 1985,1147 "
+<g id="2000983733"><path d="M1332,256 L1332,403 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1991" y1="1144" x2="1985" y2="1147"
+<line x1="1329" y1="397" x2="1332" y2="403"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1991" y1="1150" x2="1985" y2="1147"
+<line x1="1335" y1="397" x2="1332" y2="403"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2330" y="971">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1333" y="271">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967908"><path d="M2198,1322 L790,1322 786,1320 784,1316 784,1264 "
+<g id="2000983735"><path d="M1150,2766 L175,2766 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="781" y1="1270" x2="784" y2="1264"
+<line x1="181" y1="2763" x2="175" y2="2766"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="787" y1="1270" x2="784" y2="1264"
+<line x1="181" y1="2769" x2="175" y2="2766"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1245" y="1335">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="178" y="2762">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967910"><path d="M2323,881 L2305,881 2301,883 2299,887 2299,982 2297,986 2293,988 1983,988 "
+<g id="2000983737"><path d="M1528,3434 L1528,3149 1526,3145 1522,3143 873,3143 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1989" y1="985" x2="1983" y2="988"
+<line x1="879" y1="3140" x2="873" y2="3143"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1989" y1="991" x2="1983" y2="988"
+<line x1="879" y1="3146" x2="873" y2="3143"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2205" y="1001">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1154" y="3139">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967912"><path d="M1110,750 L781,750 "
+<g id="2000983739"><path d="M1665,3080 L1665,2888 1663,2884 1659,2882 1480,2882 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="787" y1="747" x2="781" y2="750"
+<line x1="1486" y1="2879" x2="1480" y2="2882"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="787" y1="753" x2="781" y2="750"
+<line x1="1486" y1="2885" x2="1480" y2="2882"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="897" y="746">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1666" y="3000">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967914"><path d="M270,1282 L175,1282 "
+<g id="2000983741"><path d="M1777,2647 L1314,2647 1314,2647 1312,2643 1308,2641 580,2641 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="181" y1="1279" x2="175" y2="1282"
+<line x1="586" y1="2638" x2="580" y2="2641"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="181" y1="1285" x2="175" y2="1282"
+<line x1="586" y1="2644" x2="580" y2="2641"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="178" y="1295">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1358" y="2660">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967916"><path d="M2263,677 L2263,658 2261,654 2257,652 1969,652 "
+<g id="2000983743"><path d="M1153,2677 L104,2677 100,2679 98,2683 98,2747 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1975" y1="649" x2="1969" y2="652"
+<line x1="95" y1="2741" x2="98" y2="2747"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1975" y1="655" x2="1969" y2="652"
+<line x1="101" y1="2741" x2="98" y2="2747"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2264" y="671">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="241" y="2673">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967918"><path d="M2335,1011 L745,1011 741,1009 739,1005 739,969 "
+<g id="2000983745"><path d="M1659,1490 L1479,1490 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="736" y1="975" x2="739" y2="969"
+<line x1="1485" y1="1487" x2="1479" y2="1490"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="742" y1="975" x2="739" y2="969"
+<line x1="1485" y1="1493" x2="1479" y2="1490"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1298" y="1024">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1535" y="1486">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967920"><path d="M2811,378 L2496,378 2492,380 2490,384 2490,403 "
+<g id="2000983747"><path d="M1112,2794 L390,2794 386,2792 384,2788 384,2739 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2487" y1="397" x2="2490" y2="403"
+<line x1="381" y1="2745" x2="384" y2="2739"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2493" y1="397" x2="2490" y2="403"
+<line x1="387" y1="2745" x2="384" y2="2739"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2402" y="397">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="391" y="2790">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967922"><path d="M268,1258 L175,1258 "
+<g id="2000983749"><path d="M979,1372 L979,1812 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="181" y1="1255" x2="175" y2="1258"
+<line x1="976" y1="1806" x2="979" y2="1812"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="181" y1="1261" x2="175" y2="1258"
+<line x1="982" y1="1806" x2="979" y2="1812"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="178" y="1254">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="980" y="1387">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967924"><path d="M2511,131 L2395,131 "
+<g id="2000983751"><path d="M1558,3359 L1421,3359 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2401" y1="128" x2="2395" y2="131"
+<line x1="1427" y1="3356" x2="1421" y2="3359"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2401" y1="134" x2="2395" y2="131"
+<line x1="1427" y1="3362" x2="1421" y2="3359"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2398" y="127">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1424" y="3355">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967926"><path d="M3351,1150 L3351,1096 "
+<g id="2000983753"><path d="M1855,2663 L1855,2676 1853,2680 1849,2682 1522,2682 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="3348" y1="1102" x2="3351" y2="1096"
+<line x1="1528" y1="2679" x2="1522" y2="2682"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3354" y1="1102" x2="3351" y2="1096"
+<line x1="1528" y1="2685" x2="1522" y2="2682"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3352" y="1111">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1761" y="2678">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967928"><path d="M1098,715 L896,715 892,717 890,721 890,920 888,924 884,926 794,926 "
+<g id="2000983755"><path d="M901,1283 L901,1283 897,1285 895,1289 895,1812 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="800" y1="923" x2="794" y2="926"
+<line x1="892" y1="1806" x2="895" y2="1812"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="800" y1="929" x2="794" y2="926"
+<line x1="898" y1="1806" x2="895" y2="1812"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="891" y="801">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="807" y="1805">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967930"><path d="M2805,605 L2805,605 2801,603 2799,599 2799,342 2797,338 2793,336 2566,336 "
+<g id="2000983757"><path d="M1564,3131 L1564,2946 1562,2942 1558,2940 1480,2940 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2572" y1="333" x2="2566" y2="336"
+<line x1="1486" y1="2937" x2="1480" y2="2940"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2572" y1="339" x2="2566" y2="336"
+<line x1="1486" y1="2943" x2="1480" y2="2940"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2800" y="570">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1565" y="2959">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967932"><path d="M2488,101 L2395,101 "
+<g id="2000983759"><path d="M1186,2608 L74,2608 70,2610 68,2614 68,2747 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2401" y1="98" x2="2395" y2="101"
+<line x1="65" y1="2741" x2="68" y2="2747"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2401" y1="104" x2="2395" y2="101"
+<line x1="71" y1="2741" x2="68" y2="2747"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2398" y="97">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="215" y="2604">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967934"><path d="M2323,905 L2084,905 "
+<g id="2000983761"><path d="M1659,1168 L1496,1168 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2090" y1="902" x2="2084" y2="905"
+<line x1="1502" y1="1165" x2="1496" y2="1168"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2090" y1="908" x2="2084" y2="905"
+<line x1="1502" y1="1171" x2="1496" y2="1168"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2199" y="918">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1535" y="1164">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967936"><path d="M1086,1051 L866,1051 "
+<g id="2000983763"><path d="M1635,820 L1461,820 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="872" y1="1048" x2="866" y2="1051"
+<line x1="1467" y1="817" x2="1461" y2="820"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="872" y1="1054" x2="866" y2="1051"
+<line x1="1467" y1="823" x2="1461" y2="820"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="891" y="1064">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1535" y="833">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967938"><path d="M281,1126 L175,1126 171,1128 169,1132 169,1239 "
+<g id="2000983765"><path d="M1186,2602 L500,2602 496,2600 494,2596 494,2577 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="166" y1="1233" x2="169" y2="1239"
+<line x1="491" y1="2583" x2="494" y2="2577"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="172" y1="1233" x2="169" y2="1239"
+<line x1="497" y1="2583" x2="494" y2="2577"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="170" y="1174">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="406" y="2592">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967940"><path d="M2323,950 L794,950 "
+<g id="2000983767"><path d="M1760,2243 L1491,2243 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="800" y1="947" x2="794" y2="950"
+<line x1="1497" y1="2240" x2="1491" y2="2243"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="800" y1="953" x2="794" y2="950"
+<line x1="1497" y1="2246" x2="1491" y2="2243"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1298" y="946">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2239">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967942"><path d="M1833,1625 L1740,1625 "
+<g id="2000983769"><path d="M1447,3526 L1433,3526 1429,3524 1427,3520 1427,3374 1421,3374 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1746" y1="1622" x2="1740" y2="1625"
+<line x1="1427" y1="3371" x2="1421" y2="3374"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1746" y1="1628" x2="1740" y2="1625"
+<line x1="1427" y1="3377" x2="1421" y2="3374"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1743" y="1621">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1339" y="3469">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967944"><path d="M3371,1015 L3371,1040 "
+<g id="2000983771"><path d="M1760,2784 L1492,2784 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="3368" y1="1034" x2="3371" y2="1040"
+<line x1="1498" y1="2781" x2="1492" y2="2784"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3374" y1="1034" x2="3371" y2="1040"
+<line x1="1498" y1="2787" x2="1492" y2="2784"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3283" y="1034">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1559" y="2780">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967946"><path d="M2011,1772 L1717,1772 1713,1770 1711,1766 1711,1662 "
+<g id="2000983773"><path d="M1760,2101 L1564,2101 1560,2103 1558,2107 1558,2225 1556,2229 1552,2231 1491,2231 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1708" y1="1668" x2="1711" y2="1662"
+<line x1="1497" y1="2228" x2="1491" y2="2231"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1714" y1="1668" x2="1711" y2="1662"
+<line x1="1497" y1="2234" x2="1491" y2="2231"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1920" y="1768">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2114">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967948"><path d="M2805,520 L2702,520 "
+<g id="2000983775"><path d="M1635,718 L1356,718 1352,720 1350,724 1350,808 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2708" y1="517" x2="2702" y2="520"
+<line x1="1347" y1="802" x2="1350" y2="808"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2708" y1="523" x2="2702" y2="520"
+<line x1="1353" y1="802" x2="1350" y2="808"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2705" y="516">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1535" y="714">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967950"><path d="M2050,382 L1957,382 "
+<g id="2000983777"><path d="M1760,2079 L1421,2079 1417,2081 1415,2085 1415,2163 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1963" y1="379" x2="1957" y2="382"
+<line x1="1412" y1="2157" x2="1415" y2="2163"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1963" y1="385" x2="1957" y2="382"
+<line x1="1418" y1="2157" x2="1415" y2="2163"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1960" y="378">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1327" y="2098">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967952"><path d="M163,1088 L163,1239 "
+<g id="2000983779"><path d="M1760,2727 L1421,2727 1417,2729 1415,2733 1415,2762 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="160" y1="1233" x2="163" y2="1239"
+<line x1="1412" y1="2756" x2="1415" y2="2762"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="166" y1="1233" x2="163" y2="1239"
+<line x1="1418" y1="2756" x2="1415" y2="2762"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="164" y="1116">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1327" y="2746">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967954"><path d="M2805,322 L2805,416 2803,420 2799,422 2572,422 "
+<g id="2000983781"><path d="M1659,1861 L1421,1861 1417,1863 1415,1867 1415,1996 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2578" y1="419" x2="2572" y2="422"
+<line x1="1412" y1="1990" x2="1415" y2="1996"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2578" y1="425" x2="2572" y2="422"
+<line x1="1418" y1="1990" x2="1415" y2="1996"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2806" y="337">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1327" y="1951">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967956"><path d="M2056,1588 L2056,1567 "
+<g id="2000983783"><path d="M1760,2160 L1570,2160 1566,2162 1564,2166 1564,2231 1562,2235 1558,2237 1491,2237 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2053" y1="1573" x2="2056" y2="1567"
+<line x1="1497" y1="2234" x2="1491" y2="2237"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2059" y1="1573" x2="2056" y2="1567"
+<line x1="1497" y1="2240" x2="1491" y2="2237"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2057" y="1582">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2156">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967958"><path d="M1086,1034 L690,1034 686,1032 684,1028 684,969 "
+<g id="2000983785"><path d="M1659,1134 L1496,1134 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="681" y1="975" x2="684" y2="969"
+<line x1="1502" y1="1131" x2="1496" y2="1134"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="687" y1="975" x2="684" y2="969"
+<line x1="1502" y1="1137" x2="1496" y2="1134"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="691" y="1030">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1535" y="1130">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967960"><path d="M2207,1531 L2114,1531 "
+<g id="2000983787"><path d="M1153,2662 L1118,2662 1114,2660 1112,2656 1112,2558 1110,2554 1106,2552 580,2552 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2120" y1="1528" x2="2114" y2="1531"
+<line x1="586" y1="2549" x2="580" y2="2552"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2120" y1="1534" x2="2114" y2="1531"
+<line x1="586" y1="2555" x2="580" y2="2552"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2117" y="1527">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1113" y="2573">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967962"><path d="M2335,1063 L1409,1063 "
+<g id="2000983789"><path d="M1659,1394 L1433,1394 1429,1396 1427,1400 1427,1484 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1415" y1="1060" x2="1409" y2="1063"
+<line x1="1424" y1="1478" x2="1427" y2="1484"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1415" y1="1066" x2="1409" y2="1063"
+<line x1="1430" y1="1478" x2="1427" y2="1484"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1412" y="1076">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1434" y="1390">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967964"><path d="M2977,1023 L2697,1023 "
+<g id="2000983791"><path d="M1760,2274 L1491,2274 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2703" y1="1020" x2="2697" y2="1023"
+<line x1="1497" y1="2271" x2="1491" y2="2274"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2703" y1="1026" x2="2697" y2="1023"
+<line x1="1497" y1="2277" x2="1491" y2="2274"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2802" y="1019">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2270">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967966"><path d="M2403,1104 L1409,1104 "
+<g id="2000983793"><path d="M1629,680 L1629,808 1627,812 1623,814 1461,814 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1415" y1="1101" x2="1409" y2="1104"
+<line x1="1467" y1="811" x2="1461" y2="814"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1415" y1="1107" x2="1409" y2="1104"
+<line x1="1467" y1="817" x2="1461" y2="814"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1412" y="1117">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1630" y="769">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967968"><path d="M1639,1555 L1639,1606 "
+<g id="2000983795"><path d="M1534,578 L1350,578 1346,580 1344,584 1344,808 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1636" y1="1600" x2="1639" y2="1606"
+<line x1="1341" y1="802" x2="1344" y2="808"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1642" y1="1600" x2="1639" y2="1606"
+<line x1="1347" y1="802" x2="1344" y2="808"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1640" y="1580">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1363" y="574">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967970"><path d="M2198,1310 L1961,1310 "
+<g id="2000983797"><path d="M1736,1754 L1373,1754 1369,1752 1367,1748 1367,1696 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1967" y1="1307" x2="1961" y2="1310"
+<line x1="1364" y1="1702" x2="1367" y2="1696"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1967" y1="1313" x2="1961" y2="1310"
+<line x1="1370" y1="1702" x2="1367" y2="1696"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1964" y="1306">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1374" y="1750">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967972"><path d="M2018,1488 L2018,1512 "
+<g id="2000983799"><path d="M1534,508 L1344,508 1340,510 1338,514 1338,808 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2015" y1="1506" x2="2018" y2="1512"
+<line x1="1335" y1="802" x2="1338" y2="808"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2021" y1="1506" x2="2018" y2="1512"
+<line x1="1341" y1="802" x2="1338" y2="808"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1930" y="1503">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1250" y="677">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967974"><path d="M2805,493 L2584,493 2580,491 2578,487 2578,360 2576,356 2572,354 2566,354 "
+<g id="2000983801"><path d="M1659,1324 L1395,1324 1391,1326 1389,1330 1389,1484 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2572" y1="351" x2="2566" y2="354"
+<line x1="1386" y1="1478" x2="1389" y2="1484"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2572" y1="357" x2="2566" y2="354"
+<line x1="1392" y1="1478" x2="1389" y2="1484"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2490" y="483">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1396" y="1320">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967976"><path d="M1110,1164 L866,1164 "
+<g id="2000983803"><path d="M1736,1656 L1540,1656 1536,1654 1534,1650 1534,1533 1532,1529 1528,1527 1479,1527 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="872" y1="1161" x2="866" y2="1164"
+<line x1="1485" y1="1524" x2="1479" y2="1527"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="872" y1="1167" x2="866" y2="1164"
+<line x1="1485" y1="1530" x2="1479" y2="1527"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="998" y="1160">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1541" y="1652">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967978"><path d="M1734,1485 L1734,1606 "
+<g id="2000983805"><path d="M1659,1038 L1433,1038 1429,1040 1427,1044 1427,1128 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1731" y1="1600" x2="1734" y2="1606"
+<line x1="1424" y1="1122" x2="1427" y2="1128"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1737" y1="1600" x2="1734" y2="1606"
+<line x1="1430" y1="1122" x2="1427" y2="1128"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1735" y="1500">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1434" y="1034">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967980"><path d="M2108,1413 L2108,1512 "
+<g id="2000983807"><path d="M1677,2025 L1491,2025 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2105" y1="1506" x2="2108" y2="1512"
+<line x1="1497" y1="2022" x2="1491" y2="2025"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2111" y1="1506" x2="2108" y2="1512"
+<line x1="1497" y1="2028" x2="1491" y2="2025"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2109" y="1428">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1559" y="2038">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967982"><path d="M2407,207 L2407,317 "
+<g id="2000983809"><path d="M1344,345 L1344,403 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2404" y1="311" x2="2407" y2="317"
+<line x1="1341" y1="397" x2="1344" y2="403"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2410" y1="311" x2="2407" y2="317"
+<line x1="1347" y1="397" x2="1344" y2="403"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2408" y="222">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1345" y="360">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967984"><path d="M1830,1415 L1099,1415 "
+<g id="2000983811"><path d="M1659,968 L1385,968 1381,970 1379,974 1379,1128 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1105" y1="1412" x2="1099" y2="1415"
+<line x1="1376" y1="1122" x2="1379" y2="1128"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1105" y1="1418" x2="1099" y2="1415"
+<line x1="1382" y1="1122" x2="1379" y2="1128"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1102" y="1428">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1386" y="964">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967986"><path d="M3392,913 L3403,913 3407,915 3409,919 3409,1040 "
+<g id="2000983813"><path d="M1474,375 L1362,375 1358,377 1356,381 1356,768 1354,772 1350,774 1332,774 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="3406" y1="1034" x2="3409" y2="1040"
+<line x1="1338" y1="771" x2="1332" y2="774"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3412" y1="1034" x2="3409" y2="1040"
+<line x1="1338" y1="777" x2="1332" y2="774"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3410" y="980">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1357" y="705">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967988"><path d="M2323,869 L2084,869 "
+<g id="2000983815"><path d="M1150,2733 L479,2733 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2090" y1="866" x2="2084" y2="869"
+<line x1="485" y1="2730" x2="479" y2="2733"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2090" y1="872" x2="2084" y2="869"
+<line x1="485" y1="2736" x2="479" y2="2733"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2097" y="865">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="492" y="2746">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967990"><path d="M2078,623 L1969,623 "
+<g id="2000983817"><path d="M1760,2450 L1491,2450 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="1975" y1="620" x2="1969" y2="623"
+<line x1="1497" y1="2447" x2="1491" y2="2450"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1975" y1="626" x2="1969" y2="623"
+<line x1="1497" y1="2453" x2="1491" y2="2450"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1972" y="619">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1660" y="2446">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967992"><path d="M1110,932 L794,932 "
+<g id="2000983819"><path d="M1760,2583 L506,2583 502,2585 500,2589 500,2614 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="800" y1="929" x2="794" y2="932"
+<line x1="497" y1="2608" x2="500" y2="2614"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="800" y1="935" x2="794" y2="932"
+<line x1="503" y1="2608" x2="500" y2="2614"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="998" y="928">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1327" y="2579">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000967994"><path d="M2969,1200 L2636,1200 2632,1198 2630,1194 2630,1171 "
+<g id="2000983821"><path d="M1457,464 L1249,464 1245,466 1243,470 1243,747 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
-<line x1="2627" y1="1177" x2="2630" y2="1171"
+<line x1="1240" y1="741" x2="1243" y2="747"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2633" y1="1177" x2="2630" y2="1171"
+<line x1="1246" y1="741" x2="1243" y2="747"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2637" y="1196">&lt;&lt;instanceOf&gt;&gt;</tspan>
+<tspan x="1250" y="477">&lt;&lt;instanceOf&gt;&gt;</tspan>
 </text>
 </g>
-<g id="2000968008"><path d="M1214,739 L1214,470 1216,466 1220,464 2846,464 "
+<g id="2000983835"><path d="M1781,2949 L1906,2949 1910,2947 1912,2943 1912,368 1910,364 1906,362 1619,362 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2840" y1="461" x2="2846" y2="464"
+<line x1="1625" y1="359" x2="1619" y2="362"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2840" y1="467" x2="2846" y2="464"
+<line x1="1625" y1="365" x2="1619" y2="362"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2807" y="462">livesIn</tspan>
+<tspan x="1623" y="375">averageWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968017"><path d="M2323,875 L2102,875 2098,877 2096,881 2096,1397 2094,1401 2090,1403 1940,1403 "
+<g id="2000983844"><path d="M1876,2618 L1876,1292 1874,1288 1870,1286 1031,1286 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1946" y1="1400" x2="1940" y2="1403"
+<line x1="1037" y1="1283" x2="1031" y2="1286"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1946" y1="1406" x2="1940" y2="1403"
+<line x1="1037" y1="1289" x2="1031" y2="1286"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1944" y="1416">connectedTo</tspan>
+<tspan x="1035" y="1299">On {movesThrough2}</tspan>
 </text>
 </g>
-<g id="2000968026"><path d="M1220,1201 L2311,1201 2315,1199 2317,1195 2317,722 "
+<g id="2000983853"><path d="M1760,2554 L1124,2554 1120,2552 1118,2548 1118,1442 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2314" y1="728" x2="2317" y2="722"
+<line x1="1115" y1="1448" x2="1118" y2="1442"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2320" y1="728" x2="2317" y2="722"
+<line x1="1121" y1="1448" x2="1118" y2="1442"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2205" y="737">On {movesThrough}</tspan>
+<tspan x="999" y="1457">On {movesThrough2}</tspan>
 </text>
 </g>
-<g id="2000968035"><path d="M1098,709 L878,709 874,711 872,715 872,1410 870,1414 866,1416 211,1416 "
+<g id="2000983862"><path d="M1888,2618 L1888,389 1886,385 1882,383 1619,383 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="217" y1="1413" x2="211" y2="1416"
+<line x1="1625" y1="380" x2="1619" y2="383"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="217" y1="1419" x2="211" y2="1416"
+<line x1="1625" y1="386" x2="1619" y2="383"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="215" y="1429">interestedIn</tspan>
+<tspan x="1623" y="396">apropriateWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968044"><path d="M1220,1221 L2969,1221 "
+<g id="2000983871"><path d="M1206,2727 L1206,2692 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2963" y1="1218" x2="2969" y2="1221"
+<line x1="1203" y1="2698" x2="1206" y2="2692"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2963" y1="1224" x2="2969" y2="1221"
+<line x1="1209" y1="2698" x2="1206" y2="2692"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2803" y="1219">apropriateWeatherConditions</tspan>
+<tspan x="1142" y="2707">hasGender</tspan>
 </text>
 </g>
-<g id="2000968053"><path d="M2323,846 L1244,846 1240,848 1238,852 1238,1358 "
+<g id="2000983880"><path d="M1882,2618 L1882,444 1880,440 1876,438 1602,438 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1235" y1="1352" x2="1238" y2="1358"
+<line x1="1608" y1="435" x2="1602" y2="438"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1241" y1="1352" x2="1238" y2="1358"
+<line x1="1608" y1="441" x2="1602" y2="438"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1240" y="1354">connectedTo</tspan>
+<tspan x="1606" y="451">apropriateWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968062"><path d="M1208,684 L2084,684 2088,686 2090,690 2090,1092 2092,1096 2096,1098 2403,1098 "
+<g id="2000983889"><path d="M1556,887 L1540,887 1536,885 1534,881 1534,849 1536,845 1540,843 1618,843 1622,845 1624,849 1624,866 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2397" y1="1095" x2="2403" y2="1098"
+<line x1="1621" y1="860" x2="1624" y2="866"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2397" y1="1101" x2="2403" y2="1098"
+<line x1="1627" y1="860" x2="1624" y2="866"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2337" y="1096">hasGender</tspan>
+<tspan x="1626" y="862">connectedTo</tspan>
 </text>
 </g>
-<g id="2000968071"><path d="M1220,1227 L2439,1227 2443,1229 2445,1233 2445,1265 2447,1269 2451,1271 2969,1271 "
+<g id="2000983898"><path d="M1112,2800 L378,2800 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2963" y1="1268" x2="2969" y2="1271"
+<line x1="384" y1="2797" x2="378" y2="2800"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2963" y1="1274" x2="2969" y2="1271"
+<line x1="384" y1="2803" x2="378" y2="2800"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2803" y="1269">apropriateWeatherConditions</tspan>
+<tspan x="382" y="2813">interestedIn</tspan>
 </text>
 </g>
-<g id="2000968080"><path d="M2795,804 L2795,1766 2793,1770 2789,1772 2121,1772 "
+<g id="2000983907"><path d="M1222,2823 L1748,2823 1752,2821 1754,2817 1754,2052 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2127" y1="1769" x2="2121" y2="1772"
+<line x1="1751" y1="2058" x2="1754" y2="2052"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2127" y1="1775" x2="2121" y2="1772"
+<line x1="1757" y1="2058" x2="1754" y2="2052"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2125" y="1785">connectedTo</tspan>
+<tspan x="1717" y="2067">livesIn</tspan>
 </text>
 </g>
-<g id="2000968089"><path d="M2335,1182 L2064,1182 2060,1184 2058,1188 2058,1376 2056,1380 2052,1382 1940,1382 "
+<g id="2000983916"><path d="M1894,2618 L1894,319 1892,315 1888,313 1475,313 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1946" y1="1379" x2="1940" y2="1382"
+<line x1="1481" y1="310" x2="1475" y2="313"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1946" y1="1385" x2="1940" y2="1382"
+<line x1="1481" y1="316" x2="1475" y2="313"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1944" y="1395">connectedTo</tspan>
+<tspan x="1479" y="326">unfavorableWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968098"><path d="M1220,1211 L2445,1211 2449,1209 2451,1205 2451,1183 2453,1179 2457,1177 2977,1177 "
+<g id="2000983925"><path d="M1260,2756 L1647,2756 1651,2754 1653,2750 1653,930 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2971" y1="1174" x2="2977" y2="1177"
+<line x1="1650" y1="936" x2="1653" y2="930"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2971" y1="1180" x2="2977" y2="1177"
+<line x1="1656" y1="936" x2="1653" y2="930"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2803" y="1175">unfavorableWeatherConditions</tspan>
+<tspan x="1586" y="945">interestedIn</tspan>
 </text>
 </g>
-<g id="2000968107"><path d="M1218,1034 L2317,1034 2321,1036 2323,1040 2323,1286 2325,1290 2329,1292 2969,1292 "
+<g id="2000983934"><path d="M1222,2802 L1314,2802 1318,2800 1320,2796 1320,1781 1322,1777 1326,1775 1736,1775 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2963" y1="1289" x2="2969" y2="1292"
+<line x1="1730" y1="1772" x2="1736" y2="1775"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2963" y1="1295" x2="2969" y2="1292"
+<line x1="1730" y1="1778" x2="1736" y2="1775"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2803" y="1290">apropriateWeatherConditions</tspan>
+<tspan x="1667" y="1773">interestedIn</tspan>
 </text>
 </g>
-<g id="2000968116"><path d="M3003,998 L3003,1017 "
+<g id="2000983943"><path d="M1400,97 L1400,192 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="3000" y1="1011" x2="3003" y2="1017"
+<line x1="1397" y1="186" x2="1400" y2="192"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3006" y1="1011" x2="3003" y2="1017"
+<line x1="1403" y1="186" x2="1400" y2="192"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3005" y="1013">unfavorableWeatherConditions</tspan>
+<tspan x="1402" y="188">unfavorableWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968125"><path d="M1151,788 L1151,899 "
+<g id="2000983952"><path d="M1534,3434 L1534,1683 1536,1679 1540,1677 1736,1677 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1148" y1="893" x2="1151" y2="899"
+<line x1="1730" y1="1674" x2="1736" y2="1677"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1154" y1="893" x2="1151" y2="899"
+<line x1="1730" y1="1680" x2="1736" y2="1677"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1153" y="895">interestedIn</tspan>
+<tspan x="1661" y="1675">connectedTo</tspan>
 </text>
 </g>
-<g id="2000968134"><path d="M76,1416 L76,1416 72,1414 70,1410 70,1332 72,1328 76,1326 76,1326 80,1328 82,1332 82,1384 "
+<g id="2000983961"><path d="M1900,2618 L1900,230 1898,226 1894,224 1448,224 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="79" y1="1378" x2="82" y2="1384"
+<line x1="1454" y1="221" x2="1448" y2="224"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="85" y1="1378" x2="82" y2="1384"
+<line x1="1454" y1="227" x2="1448" y2="224"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="84" y="1380">connectedTo</tspan>
+<tspan x="1452" y="237">unfavorableWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968143"><path d="M2198,1304 L2198,1304 2194,1302 2192,1298 2192,629 "
+<g id="2000983970"><path d="M1147,2831 L1147,3528 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2189" y1="635" x2="2192" y2="629"
+<line x1="1144" y1="3522" x2="1147" y2="3528"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2195" y1="635" x2="2192" y2="629"
+<line x1="1150" y1="3522" x2="1147" y2="3528"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2080" y="644">On {movesThrough}</tspan>
+<tspan x="1149" y="3524">interestedIn</tspan>
 </text>
 </g>
-<g id="2000968152"><path d="M1110,776 L320,776 "
+<g id="2000983979"><path d="M1552,3383 L1552,3383 1548,3381 1546,3377 1546,1802 1548,1798 1552,1796 1736,1796 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="326" y1="773" x2="320" y2="776"
+<line x1="1730" y1="1793" x2="1736" y2="1796"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="326" y1="779" x2="320" y2="776"
+<line x1="1730" y1="1799" x2="1736" y2="1796"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="324" y="789">interestedIn</tspan>
+<tspan x="1661" y="1794">connectedTo</tspan>
 </text>
 </g>
-<g id="2000968161"><path d="M1220,1190 L2305,1190 2309,1188 2311,1184 2311,1081 2313,1077 2317,1075 2977,1075 "
+<g id="2000983988"><path d="M1575,3086 L1534,3086 1530,3084 1528,3080 1528,470 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2971" y1="1072" x2="2977" y2="1075"
+<line x1="1525" y1="476" x2="1528" y2="470"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2971" y1="1078" x2="2977" y2="1075"
+<line x1="1531" y1="476" x2="1528" y2="470"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2803" y="1073">unfavorableWeatherConditions</tspan>
+<tspan x="1364" y="485">apropriateWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968170"><path d="M2892,957 L2882,957 2878,955 2876,951 2876,917 2878,913 2882,911 2955,911 2959,913 2961,917 2961,934 "
+<g id="2000983997"><path d="M1345,54 L1207,54 1203,52 1201,48 1201,16 1203,12 1207,10 1407,10 1411,12 1413,16 1413,33 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2958" y1="928" x2="2961" y2="934"
+<line x1="1410" y1="27" x2="1413" y2="33"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2964" y1="928" x2="2961" y2="934"
+<line x1="1416" y1="27" x2="1413" y2="33"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2963" y="930">unfavorableWeatherConditions</tspan>
+<tspan x="1415" y="29">unfavorableWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968179"><path d="M3282,1198 L3114,1198 "
+<g id="2000984006"><path d="M1112,2788 L1112,2788 1108,2786 1106,2782 1106,2635 1108,2631 1112,2629 1186,2629 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="3120" y1="1195" x2="3114" y2="1198"
+<line x1="1180" y1="2626" x2="1186" y2="2629"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="3120" y1="1201" x2="3114" y2="1198"
+<line x1="1180" y1="2632" x2="1186" y2="2629"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="3118" y="1211">averageWeatherConditions</tspan>
+<tspan x="1120" y="2627">hasGender</tspan>
 </text>
 </g>
-<g id="2000968188"><path d="M1220,767 L1220,767 1224,769 1226,773 1226,1403 1228,1407 1232,1409 1830,1409 "
+<g id="2000984015"><path d="M1552,3389 L1546,3389 1542,3387 1540,3383 1540,1742 1542,1738 1546,1736 1736,1736 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1824" y1="1406" x2="1830" y2="1409"
+<line x1="1730" y1="1733" x2="1736" y2="1736"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1824" y1="1412" x2="1830" y2="1409"
+<line x1="1730" y1="1739" x2="1736" y2="1736"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1761" y="1407">interestedIn</tspan>
+<tspan x="1661" y="1734">connectedTo</tspan>
 </text>
 </g>
-<g id="2000968197"><path d="M1220,745 L2433,745 2437,747 2439,751 2439,1005 "
+<g id="2000984024"><path d="M1558,3328 L1558,3328 1554,3326 1552,3322 1552,1823 1554,1819 1558,1817 1736,1817 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="2436" y1="999" x2="2439" y2="1005"
+<line x1="1730" y1="1814" x2="1736" y2="1817"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="2442" y1="999" x2="2439" y2="1005"
+<line x1="1730" y1="1820" x2="1736" y2="1817"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="2441" y="1001">hasGender</tspan>
+<tspan x="1661" y="1815">connectedTo</tspan>
 </text>
 </g>
-<g id="2000968206"><path d="M2066,852 L2066,555 2064,551 2060,549 1908,549 "
+<g id="2000984033"><path d="M690,3121 L690,2410 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1914" y1="546" x2="1908" y2="549"
+<line x1="687" y1="2416" x2="690" y2="2410"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1914" y1="552" x2="1908" y2="549"
+<line x1="693" y1="2416" x2="690" y2="2410"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1912" y="562">unpopularIn</tspan>
+<tspan x="636" y="2425">popularIn</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1984" y="562">{&lt;&gt;popularIn}</tspan>
+<tspan x="600" y="2442">{&lt;&gt;unpopularIn}</tspan>
 </text>
 </g>
-<g id="2000968255"><path d="M866,1200 L979,1200 983,1198 985,1194 985,810 987,806 991,804 1610,804 "
+<g id="2000984082"><path d="M479,2698 L586,2698 590,2696 592,2692 592,2410 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1604" y1="801" x2="1610" y2="804"
+<line x1="589" y1="2416" x2="592" y2="2410"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1604" y1="807" x2="1610" y2="804"
+<line x1="595" y1="2416" x2="592" y2="2410"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1299" y="802">apropriateWeatherConditions</tspan>
+<tspan x="555" y="2425">livesIn</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1467" y="802">{&lt;topObjectProperty{owl}}</tspan>
+<tspan x="451" y="2442">{&lt;topObjectProperty{owl}}</tspan>
 </text>
 </g>
-<g id="2000968302"><path d="M635,756 L635,920 "
+<g id="2000984129"><path d="M580,2621 L902,2621 906,2619 908,2615 908,2076 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="632" y1="914" x2="635" y2="920"
+<line x1="905" y1="2082" x2="908" y2="2076"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="638" y1="914" x2="635" y2="920"
+<line x1="911" y1="2082" x2="908" y2="2076"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="637" y="916">topObjectProperty{owl}</tspan>
+<tspan x="744" y="2091">apropriateWeatherConditions</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="595" y="899">{asym}</tspan>
-</text>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="604" y="916">{tran}</tspan>
+<tspan x="767" y="2108">{&lt;topObjectProperty{owl}}</tspan>
 </text>
 </g>
-<g id="2000968347"><path d="M616,720 L403,720 399,722 397,726 397,1456 "
+<g id="2000984176"><path d="M443,2410 L443,2473 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="394" y1="1450" x2="397" y2="1456"
+<line x1="440" y1="2467" x2="443" y2="2473"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="400" y1="1450" x2="397" y2="1456"
+<line x1="446" y1="2467" x2="443" y2="2473"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="399" y="1435">interestedIn</tspan>
-</text>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="399" y="1452">{&lt;topObjectProperty{owl}}</tspan>
+<tspan x="445" y="2469">roadConditions</tspan>
 </text>
 </g>
-<g id="2000968394"><path d="M866,1188 L872,1188 876,1186 878,1182 878,627 880,623 884,621 1804,621 "
+<g id="2000984221"><path d="M774,3121 L774,2410 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1798" y1="618" x2="1804" y2="621"
+<line x1="771" y1="2416" x2="774" y2="2410"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1798" y1="624" x2="1804" y2="621"
+<line x1="777" y1="2416" x2="774" y2="2410"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1630" y="619">unfavorableWeatherConditions</tspan>
+<tspan x="706" y="2425">unpopularIn</tspan>
+</text>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="698" y="2442">{&lt;&gt;popularIn}</tspan>
 </text>
 </g>
-<g id="2000968439"><path d="M699,684 L699,534 701,530 705,528 1743,528 "
+<g id="2000984270"><path d="M867,3121 L867,2189 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1737" y1="525" x2="1743" y2="528"
+<line x1="864" y1="2195" x2="867" y2="2189"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1737" y1="531" x2="1743" y2="528"
+<line x1="870" y1="2195" x2="867" y2="2189"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1559" y="526">livesIn</tspan>
+<tspan x="794" y="2204">connectedTo</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1600" y="526">{&lt;topObjectProperty{owl}}</tspan>
+<tspan x="869" y="2204">{sym}</tspan>
+</text>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="869" y="2221">{refl}</tspan>
 </text>
 </g>
-<g id="2000968486"><path d="M781,727 L1285,727 1289,729 1291,733 1291,1057 "
+<g id="2000984315"><path d="M580,2627 L1082,2627 1086,2625 1088,2621 1088,2076 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1288" y1="1051" x2="1291" y2="1057"
+<line x1="1085" y1="2082" x2="1088" y2="2076"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1294" y1="1051" x2="1291" y2="1057"
+<line x1="1091" y1="2082" x2="1088" y2="2076"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1293" y="1053">hasGender</tspan>
-</text>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1258" y="1053">{func}</tspan>
+<tspan x="916" y="2091">unfavorableWeatherConditions</tspan>
 </text>
 </g>
-<g id="2000968531"><path d="M1919,876 L593,876 589,878 587,882 587,1456 "
+<g id="2000984360"><path d="M479,2709 L780,2709 784,2707 786,2703 786,2189 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="584" y1="1450" x2="587" y2="1456"
+<line x1="783" y1="2195" x2="786" y2="2189"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="590" y1="1450" x2="587" y2="1456"
+<line x1="789" y1="2195" x2="786" y2="2189"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="589" y="1452">connectedTo</tspan>
+<tspan x="719" y="2204">interestedIn</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="554" y="1435">{sym}</tspan>
-</text>
-<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="560" y="1452">{refl}</tspan>
+<tspan x="645" y="2221">{&lt;topObjectProperty{owl}}</tspan>
 </text>
 </g>
-<g id="2000968576"><path d="M2072,852 L2072,534 2070,530 2066,528 1908,528 "
+<g id="2000984407"><path d="M341,2688 L341,2566 343,2562 347,2560 415,2560 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1914" y1="525" x2="1908" y2="528"
+<line x1="409" y1="2557" x2="415" y2="2560"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1914" y1="531" x2="1908" y2="528"
+<line x1="409" y1="2563" x2="415" y2="2560"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1912" y="541">popularIn</tspan>
+<tspan x="349" y="2558">hasGender</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1970" y="541">{&lt;&gt;unpopularIn}</tspan>
+<tspan x="380" y="2573">{func}</tspan>
 </text>
 </g>
-<g id="2000968625"><path d="M866,1194 L878,1194 882,1192 884,1188 884,648 886,644 890,642 1804,642 "
+<g id="2000984452"><path d="M580,2634 L1094,2634 1098,2632 1100,2628 1100,1861 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1798" y1="639" x2="1804" y2="642"
+<line x1="1097" y1="1867" x2="1100" y2="1861"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1798" y1="645" x2="1804" y2="642"
+<line x1="1103" y1="1867" x2="1100" y2="1861"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1693" y="640">On{movesThrough}</tspan>
+<tspan x="984" y="1876">On{movesThrough2}</tspan>
 </text>
 </g>
-<g id="2000968670"><path d="M1743,547 L1622,547 1618,549 1616,553 1616,785 "
+<g id="2000984497"><path d="M314,2707 L152,2707 148,2709 146,2713 146,2747 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1613" y1="779" x2="1616" y2="785"
+<line x1="143" y1="2741" x2="146" y2="2747"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1619" y1="779" x2="1616" y2="785"
+<line x1="149" y1="2741" x2="146" y2="2747"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1618" y="764">averageWeatherConditions</tspan>
+<tspan x="148" y="2743">topObjectProperty{owl}</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1618" y="781">{&lt;topObjectProperty{owl}}</tspan>
+<tspan x="106" y="2726">{asym}</tspan>
 </text>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1576" y="781">{asym}</tspan>
+<tspan x="115" y="2743">{tran}</tspan>
 </text>
 </g>
-<g id="2000968717"><path d="M1743,557 L1628,557 1624,559 1622,563 1622,706 1624,710 1628,712 1794,712 "
+<g id="2000984542"><path d="M595,2355 L595,2065 597,2061 601,2059 902,2059 "
 style="fill:none;stroke-width:1;stroke:Black;"/>
-<line x1="1788" y1="709" x2="1794" y2="712"
+<line x1="896" y1="2056" x2="902" y2="2059"
  style="stroke-width:1;stroke:Black;"/>
-<line x1="1788" y1="715" x2="1794" y2="712"
+<line x1="896" y1="2062" x2="902" y2="2059"
  style="stroke-width:1;stroke:Black;"/>
 <text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
-<tspan x="1705" y="710">roadConditions</tspan>
+<tspan x="603" y="2057">averageWeatherConditions</tspan>
+</text>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="759" y="2057">{&lt;topObjectProperty{owl}}</tspan>
+</text>
+<text style="font-family:Arial;font-size:12px;kerning:0;word-spacing:-1px;fill:Black;">
+<tspan x="860" y="2072">{asym}</tspan>
 </text>
 </g>
-<g id="2000968762"><path d="M2383,505 L1826,505 1826,511 "
+<g id="2000984589"><path d="M1139,1459 L1139,2042 1137,2046 1133,2048 1094,2048 "
 style="fill:none;stroke-width:3;stroke:Purple;"/>
-<polygon points="1829,505 1826,511 1823,505 "
+<polygon points="1100,2051 1094,2048 1100,2045 "
 style="fill:#F0F0F0;stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000968763"><path d="M2323,798 L2084,798 2080,800 2078,804 2078,852 "
+<g id="2000984590"><path d="M1284,2404 L780,2404 "
 style="fill:none;stroke-width:3;stroke:Purple;"/>
-<polygon points="2081,846 2078,852 2075,846 "
+<polygon points="786,2407 780,2404 786,2401 "
 style="fill:#F0F0F0;stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000968764"><path d="M860,1464 L593,1464 "
+<g id="2000984591"><path d="M1248,2715 L538,2715 534,2713 532,2709 532,2663 "
 style="fill:none;stroke-width:3;stroke:Purple;"/>
-<polygon points="599,1467 593,1464 599,1461 "
+<polygon points="535,2669 532,2663 529,2669 "
 style="fill:#F0F0F0;stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000968765"><path d="M1190,855 L788,855 784,857 782,861 782,920 "
+<g id="2000984592"><path d="M1163,3344 L1163,3171 1161,3167 1157,3165 873,3165 "
 style="fill:none;stroke-width:3;stroke:Purple;"/>
-<polygon points="785,914 782,920 779,914 "
+<polygon points="879,3168 873,3165 879,3162 "
 style="fill:#F0F0F0;stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000968766"><path d="M1092,1258 L866,1258 "
+<g id="2000984593"><path d="M299,2433 L45,2433 41,2435 39,2439 39,2747 "
 style="fill:none;stroke-width:3;stroke:Purple;"/>
-<polygon points="872,1261 866,1258 872,1255 "
+<polygon points="42,2741 39,2747 36,2741 "
 style="fill:#F0F0F0;stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000968767"><path d="M2359,822 L1775,822 "
+<g id="2000984594"><path d="M1296,1477 L1296,2156 1294,2160 1290,2162 902,2162 "
 style="fill:none;stroke-width:3;stroke:Purple;"/>
-<polygon points="1781,825 1775,822 1781,819 "
+<polygon points="908,2165 902,2162 908,2159 "
 style="fill:#F0F0F0;stroke-width:1;stroke:Black;"/>
 </g>
-<g id="2000968768"><path d="M1606,1606 L1606,1470 1604,1466 1600,1464 946,1464 "
+<g id="2000984595"><path d="M1351,2638 L1351,2703 1349,2707 1345,2709 1278,2709 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968769"><path d="M2531,629 L2531,629 2527,627 2525,623 2525,504 "
+<g id="2000984596"><path d="M586,3121 L586,2456 584,2452 580,2450 329,2450 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968770"><path d="M2526,1116 L2526,834 2524,830 2520,828 2389,828 "
+<g id="2000984597"><path d="M1290,802 L1290,1454 1288,1458 1284,1460 1154,1460 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968771"><path d="M2537,505 L2531,505 "
+<g id="2000984598"><path d="M1315,2940 L1308,2940 1304,2938 1302,2934 1302,2424 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968772"><path d="M1796,1273 L1122,1273 "
+<g id="2000984599"><path d="M1270,3237 L1179,3237 1175,3239 1173,3243 1173,3344 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968773"><path d="M1743,538 L1238,538 1234,540 1232,544 1232,810 1230,814 1226,816 1220,816 "
+<g id="2000984600"><path d="M1165,3480 L1165,3480 1161,3478 1159,3474 1159,3348 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968774"><path d="M940,1438 L940,1462 "
+<g id="2000984601"><path d="M1357,2715 L1278,2715 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968775"><path d="M2615,967 L2615,828 2613,824 2609,822 2389,822 "
+<g id="2000984602"><path d="M1185,430 L1166,430 1162,432 1160,436 1160,1454 1154,1454 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968776"><path d="M1610,834 L1220,834 "
+<g id="2000984603"><path d="M902,2038 L320,2038 316,2040 314,2044 314,2431 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968777"><path d="M2525,798 L2353,798 "
+<g id="2000984604"><path d="M1331,1155 L1290,1155 1286,1157 1284,1161 1284,1473 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968778"><path d="M2407,431 L2407,431 2403,433 2401,437 2401,500 "
+<g id="2000984605"><path d="M1327,2789 L1314,2789 1310,2787 1308,2783 1308,2424 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968779"><path d="M1250,1057 L1250,870 1248,866 1244,864 1220,864 "
+<g id="2000984606"><path d="M737,2162 L327,2162 323,2164 321,2168 321,2431 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968780"><path d="M1919,858 L1220,858 "
+<g id="2000984607"><path d="M415,2539 L325,2539 321,2537 319,2533 319,2435 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968781"><path d="M2401,345 L2401,345 2397,347 2395,351 2395,500 "
+<g id="2000984608"><path d="M1326,2441 L1314,2441 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968782"><path d="M1794,733 L1250,733 1246,735 1244,739 1244,822 1242,826 1238,828 1220,828 "
+<g id="2000984609"><path d="M415,2638 L315,2638 311,2636 309,2632 309,2435 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968783"><path d="M1804,650 L1244,650 1240,652 1238,656 1238,816 1236,820 1232,822 1220,822 "
+<g id="2000984610"><path d="M1326,2367 L1314,2367 1310,2369 1308,2373 1308,2420 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968784"><path d="M866,1170 L1092,1170 1096,1172 1098,1176 1098,1263 "
+<g id="2000984611"><path d="M1256,3425 L1177,3425 1173,3423 1171,3419 1171,3348 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968785"><path d="M546,1456 L546,853 548,849 552,847 1190,847 "
+<g id="2000984612"><path d="M437,2404 L329,2404 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968786"><path d="M866,1206 L985,1206 989,1204 991,1200 991,869 993,865 997,863 1190,863 "
+<g id="2000984613"><path d="M335,2688 L335,2462 329,2462 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968787"><path d="M2389,137 L2389,500 "
+<g id="2000984614"><path d="M1326,2252 L1308,2252 1304,2254 1302,2258 1302,2420 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968788"><path d="M3276,1314 L3276,816 3274,812 3270,810 2353,810 "
+<g id="2000984615"><path d="M1325,863 L1325,1466 1323,1470 1319,1472 1308,1472 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968789"><path d="M1949,1561 L909,1561 905,1559 903,1555 903,1466 "
+<g id="2000984616"><path d="M1315,2882 L1272,2882 1268,2880 1266,2876 1266,2714 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968790"><path d="M1875,419 L1875,493 1877,497 1881,499 2383,499 "
+<g id="2000984617"><path d="M1326,2023 L1296,2023 1292,2025 1290,2029 1290,2420 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968791"><path d="M866,1074 L1098,1074 1102,1076 1104,1080 1104,1263 "
+<g id="2000984618"><path d="M1256,3346 L1183,3346 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968792"><path d="M175,1270 L860,1270 864,1272 866,1276 866,1462 "
+<g id="2000984619"><path d="M889,1837 L312,1837 308,1839 306,1843 306,2431 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968793"><path d="M775,756 L775,812 777,816 781,818 1190,818 "
+<g id="2000984620"><path d="M429,2473 L429,2462 427,2458 423,2456 329,2456 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968794"><path d="M1983,972 L2287,972 2291,970 2293,966 2293,810 2295,806 2299,804 2323,804 "
+<g id="2000984621"><path d="M1352,1484 L1352,1484 1350,1480 1346,1478 1308,1478 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968795"><path d="M1985,1141 L2299,1141 2303,1139 2305,1135 2305,816 2307,812 2311,810 2323,810 "
+<g id="2000984622"><path d="M1312,1671 L1308,1671 1304,1669 1302,1665 1302,1477 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000968796"><path d="M3282,1087 L2525,1087 2521,1085 2519,1081 2519,504 "
+<g id="2000984623"><path d="M1326,2191 L1302,2191 1298,2193 1296,2197 1296,2420 "
 style="fill:none;stroke-width:3;stroke:#8000FF;"/>
 </g>
-<g id="2000969758"><path d="M2934,617 L2915,617 "
+<g id="2000985585"><path d="M1918,2079 L1870,2079 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
 </g>
-<g id="2000969759"><path d="M2652,93 L2623,93 "
+<g id="2000985586"><path d="M1699,3430 L1699,3163 1693,3163 "
 style="fill:none;stroke-width:1;stroke:Black;stroke-dasharray:5,5;"/>
 </g>
 </svg>
