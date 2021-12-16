@@ -1,0 +1,1035 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ghira/ontologies/2021/11/untitled-ontology-6#"
+     xml:base="http://www.semanticweb.org/ghira/ontologies/2021/11/untitled-ontology-6"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:movesThrough="http://www.semanticweb.org/ghira/ontologies/2021/11/untitled-ontology-6#movesThrough/"
+     xmlns:movesThrough1="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_little_helper_ontology#movesThrough/"
+     xmlns:movesThrough2="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#movesThrough/"
+     xmlns:untitled-ontology-6="http://www.semanticweb.org/ghira/ontologies/2021/11/untitled-ontology-6#"
+     xmlns:santas_helper_ontology="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#"
+     xmlns:santas_little_helper_ontology="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_little_helper_ontology#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#apropriateWeatherConditions -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#apropriateWeatherConditions">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unfavorableWeatherConditions"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#averageWeatherConditions -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#averageWeatherConditions">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#connectedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#connectedTo">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ReflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#hasGender -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#hasGender">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gender"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#interestedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#interestedIn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#livesIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#livesIn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#popularIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#popularIn">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unpopularIn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+        <owl:propertyDisjointWith rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unpopularIn"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#roadConditions -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#roadConditions">
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#RoadState"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unfavorableWeatherConditions -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unfavorableWeatherConditions">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unpopularIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#unpopularIn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#movesThrough/On -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#movesThrough/On">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#apropriateForAgesAndUp -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#apropriateForAgesAndUp">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#hasAge -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#hasAge">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AfricanCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AntarcticaCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#AntarcticaCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Art -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Art">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AsianCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#AsianCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Country -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Engineering -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Engineering">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#GoodWeatherConditions -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#GoodWeatherConditions">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Interest -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OceaniaCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OceaniaCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Science -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#Science">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SouthAmericanCountry -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#SouthAmericanCountry">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#WeatherConditions -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Book -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Book">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Classic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Classic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gender -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gender"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Magical -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Magical">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Military -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Military">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Modern -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Modern">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#RoadState -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#RoadState"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Tool -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Tool">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Toy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Toy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Weapon -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Weapon">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AerospaceEngineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#AerospaceEngineering">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AfricanCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AntarcticaCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#AntarcticaCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Argentina -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Argentina">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#SouthAmericanCountry"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">There are no countries in Antarctica, although seven nations claim different parts of it: New Zealand, Australia, France, Norway, the United Kingdom, Chile, and Argentina.</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Art -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#AsianCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#AsianCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Biology -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Biology">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Science"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Brazil -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Brazil">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#SouthAmericanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Canada -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Canada">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Chemistry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Chemistry">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Science"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CivilEngineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#CivilEngineering">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#ClearSky -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#ClearSky">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#GoodWeatherConditions"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Cloudy -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Cloudy">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#ComputerScience -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#ComputerScience">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Science"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Country -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Country"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Egypt -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Egypt">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry"/>
+        <santas_helper_ontology:averageWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Sunny"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#ElectricalEngineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#ElectricalEngineering">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Engineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Ethiopia -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Ethiopia">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Film -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Film">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#GoodWeatherConditions -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#GoodWeatherConditions"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#India -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#India">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AsianCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Interest -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Interest"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Italy -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Italy">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Jamaica -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Jamaica">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Kenya -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Kenya">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Mathematics -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Mathematics">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Science"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#MechanicalEngineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#MechanicalEngineering">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+        <santas_helper_ontology:connectedTo rdf:resource="http://www.co-ode.org/ontologies/ont.owl#MechanicalEngineering"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Music -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Music">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OceaniaCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#OceaniaCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Painting -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Painting">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Photography -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Photography">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Physics -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Physics">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Science"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Poetry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Poetry">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Rainy -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Rainy">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Russia -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Russia">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AsianCountry"/>
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Samoa -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Samoa">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OceaniaCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Science -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Science"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Sculpture -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Sculpture">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Snowy -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Snowy">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SoftwareEngineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SoftwareEngineering">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Somalia -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Somalia">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SouthAfrica -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SouthAfrica">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AfricanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#SouthAmericanCountry -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#SouthAmericanCountry"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#StructuralEngineering -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#StructuralEngineering">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Engineering"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Sunny -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Sunny">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#GoodWeatherConditions"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Sweden -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Sweden">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Tonga -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Tonga">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OceaniaCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#UK -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#UK">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#AntarcticaCountry"/>
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#EuropeanCountry"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">There are no countries in Antarctica, although seven nations claim different parts of it: New Zealand, Australia, France, Norway, the United Kingdom, Chile, and Argentina.</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#USA -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#USA">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#NorthAmericanCountry"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#WeatherConditions -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#WeatherConditions"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#Windy -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/ont.owl#Windy">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/ont.owl#BadWeatherConditions"/>
+        <santas_helper_ontology:unfavorableWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Snowy"/>
+        <santas_helper_ontology:unfavorableWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Windy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Air -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Air">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Ana -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Ana">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+        <santas_helper_ontology:hasGender rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Girl"/>
+        <santas_helper_ontology:interestedIn rdf:resource="http://www.co-ode.org/ontologies/ont.owl#MechanicalEngineering"/>
+        <santas_helper_ontology:hasAge rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</santas_helper_ontology:hasAge>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ArmyService -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ArmyService">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Military"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Boy -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Boy">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gender"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Delivery_Van -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Delivery_Van">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Classic"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+        <movesThrough2:On rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Ground"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Drone -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Drone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Modern"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+        <santas_helper_ontology:apropriateWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#ClearSky"/>
+        <santas_helper_ontology:apropriateWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Sunny"/>
+        <santas_helper_ontology:unfavorableWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Rainy"/>
+        <santas_helper_ontology:unfavorableWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Snowy"/>
+        <movesThrough2:On rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Air"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Girl -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Girl">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gender"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Glock-18 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Glock-18">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Weapon"/>
+        <santas_helper_ontology:connectedTo rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ArmyService"/>
+        <santas_helper_ontology:connectedTo rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Guns"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Ground -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Ground">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Guns -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Guns">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Military"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Jonny -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Jonny">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Child"/>
+        <santas_helper_ontology:hasGender rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Boy"/>
+        <santas_helper_ontology:interestedIn rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Art"/>
+        <santas_helper_ontology:interestedIn rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Guns"/>
+        <santas_helper_ontology:interestedIn rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Music"/>
+        <santas_helper_ontology:livesIn rdf:resource="http://www.co-ode.org/ontologies/ont.owl#USA"/>
+        <santas_helper_ontology:hasAge rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</santas_helper_ontology:hasAge>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#MagicRaindeerSled -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#MagicRaindeerSled">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Magical"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TranspotationMethods"/>
+        <santas_helper_ontology:apropriateWeatherConditions rdf:resource="http://www.co-ode.org/ontologies/ont.owl#ClearSky"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Music -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Music">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Sea -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Sea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TransportationMedium"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TheHistoryOfCinema -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#TheHistoryOfCinema">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Book"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <santas_helper_ontology:connectedTo rdf:resource="http://www.co-ode.org/ontologies/ont.owl#Film"/>
+        <santas_helper_ontology:apropriateForAgesAndUp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</santas_helper_ontology:apropriateForAgesAndUp>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ToyCar -->
+
+    <owl:Thing rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ToyCar">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Toy"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ToyGun -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#ToyGun">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Gift"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Toy"/>
+        <santas_helper_ontology:connectedTo rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Guns"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#toyGun -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#toyGun">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Toy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Book"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Tool"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Toy"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ghira/ontologies/2021/11/santas_helper_ontology#Weapon"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
