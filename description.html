@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+	<title>WAD Hackaton #2</title>
+	<meta name="author" content="Marian-Sergiu Nistor, Andrei Ghiran">
+
+	</head>
+
+	<body>
+	
+		<div>
+			<h2>Table of Contents</h2>
+			<ol>
+				<li><a href="#members">Members</a></li>
+				<li><a href="#description">Scenario & Knowledge Model Description</a></li>
+				<li><a href="#contributions">Contributions</a></li>
+				<li><a href="#visualization">Ontology Visualization</a>
+					<ol>
+						<li><a href="#vizWithInd">Ontology Visualization (with individuals)</a></li>
+						<li><a href="#vizNoInd">Ontology Visualization (without individuals)</a></li>
+					</ol>
+				</li>
+			</ol>
+		</div>
+		
+		<div style="margin-top: 3cm" id="members">
+			<h2>Members:</h2>
+			<ul>
+				<li>Marian-Sergiu Nistor (MSD1)</li>
+				<li>Andrei Ghiran (MSD1)</li>
+			</ul>
+		</div>
+		
+		<div style="margin-top: 3cm" id="description">
+			<h2>Scenario & Knowledge Model Description</h2>
+			The use case/scenario considered when modelling the ontology revolves around the idea
+			of distributing appropriate items (toys) to the considered actors (children), while taking
+			into consideration several factors, such as weather conditions in their country of
+			residence (e.g. Australia is sunny, on average), and their interests (e.g. a child that
+			likes aerospace engineering would likely be interested in an airplane toy).<br><br>
+			Based on the ontology, one could use relationship-oriented computational methods in order to achieve the
+			aforementioned task, such as classical inference algorithms, machine learning algorithms
+			(e.g. graph clustering algorithms), or modern deep learning methods (e.g. graph neural nets).
+		</div>
+		
+		<div style="margin-top: 3cm" id="contributions">
+			<h2>Contributions:</h2>
+			<ul>
+				<li style="style="margin-top: 1cm">Marian-Sergiu Nistor:
+					<ul>
+						<li>HTML Documentation</li>
+						<li>Annotations (e.g. The Antartica comment for UK, Chile, Norway)</li>
+						<li>Assertions</li>
+						<li>Classes, subclasses, and their instances:
+							<ul>
+								<li>WeatherConditions (Weather conditions for a specific country):
+									<ul>
+										<li>GoodWeatherConditions</li>
+										<li>BadWeatherConditions</li>
+									</ul>
+								</li>
+								<li>Country (Country of residence for the child):
+									<ul>
+										<li>AfricanCountry</li>
+										<li>AntarticaCountry</li>
+										<li>AsianCountry</li>
+										<li>EuropeanCountry</li>
+										<li>NorthAmericanCountry</li>
+										<li>SouthAmericanCountry</li>
+										<li>OceaniaCountry</li>
+									</ul>
+								</li>
+								<li>Interest (The child's interest):
+									<ul>
+										<li>Art</li>
+										<li>Engineering</li>
+										<li>Science</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li style="margin-top: 0.5cm">Andrei Ghiran:
+					<ul>
+						<li>Predicates and assertions:
+							<ul>
+								<li>TheHistoryOfCinema connectedTo Film</li>
+								<li>Drone apropriateWeatherConditions Sunny</li>
+								<li>Drone unfavourableWeatherConditions Snowy</li>
+								<li>Jonny hasGender Boy</li>
+								<li>Johnny wasNaughtyOrNice Nice</li>
+							</ul>
+						</li>
+						<li>Classes, subclasses, and their instances:
+							<ul>
+								<li>ChildBehaviour
+									<ul>
+										<li>Naughty</li>
+										<li>Nice</li>
+									</ul>
+								</li>
+								<li>TransportationMedium (The medium of transporation, e.g. air)</li>
+								<li>Child (The child instance)</li>
+								<li>Gender (A child's gender)</li>
+								<li>Gift (The gift to be received by a child):
+									<ul>
+										<li>Weapon</li>
+										<li>Book</li>
+										<li>Tool</li>
+										<li>Toy</li>
+									</ul>
+								</li>
+								<li>TransportationMethods (The deliverer's method of transporation):
+									<ul>
+										<li>Magical</li>
+										<li>Classic</li>
+										<li>Modern</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+		</div>
+		
+		<div style="margin-top: 3cm" id="visualization">
+			<h2>Ontology Visualization</h2>
+			
+			<h3 id="vizWithInd">With individuals:</h3>
+			<img src="withIndividuals.svg" alt="Ontology Visualization (with individuals)">
+			
+			<h3 style="margin-top: 3cm" id="vizNoInd">Without individuals:</h3>
+			<img src="noIndividuals.svg" alt="Ontology Visualization (without individuals)">
+		</div>
+		
+	</body>
+
+</html>
